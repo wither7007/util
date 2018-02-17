@@ -8,8 +8,7 @@ fs.readFile('l', function(err, data){
 		re = /\s?\d+\s+/g
     let nData=data.toString().replace(re,'').trim().split('\n')
 		uData=(uniq(nData))
-//		nData=mData.replace(re,'').trim().split('\n').trim()
-    uData=uData.sort()
-		uData.forEach(a=>console.log(a.trim()))
-   // console.log(uniq(nData))
+    fData=uData.map(x=>x.trim())
+    fData=fData.sort()
+		fData.forEach(a=>console.log(a.trim()))
 })
