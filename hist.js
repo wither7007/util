@@ -9,6 +9,7 @@ fs.readFile('l', function(err, data){
     let nData=data.toString().replace(re,'').trim().split('\n')
 		uData=(uniq(nData))
 //		nData=mData.replace(re,'').trim().split('\n').trim()
+    uData=uData.sort()
 		uData.forEach(a=>console.log(a.trim()))
    // console.log(uniq(nData))
 })
