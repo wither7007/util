@@ -1,6 +1,6 @@
 const axios = require('axios')
-//const jsdom = require('jsdom')
-//const { JSDOM } = jsdom
+const jsdom = require('jsdom')
+const { JSDOM } = jsdom
 var pretty = require('pretty')
 var fs = require('fs')
 const murl = process.env.u
@@ -22,7 +22,9 @@ n = (l) => {
 }
 axios.get(murl)
     .then(function (response) {
-        p=pretty(response.data)
+        p=pretty(response.data);
+        const dox = new JSDOM(response.data);
+        n(dox)
         fs.writeFile("o", p, function(err) {
             if (err) {
                 return console.err(err)

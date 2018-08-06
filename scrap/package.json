@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
-    "jsdom": "^11.6.2",
+    "cheerio": "^1.0.0-rc.2",
+    "jsdom": "^11.11.0",
     "pretty": "^2.0.0"
   }
 }
