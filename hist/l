@@ -1,0 +1,2697 @@
+    1  0<f
+    2  1
+    3  10
+    4  100
+    5  1,000
+    6  10,000
+    7  2>f
+    8  2pac.txt
+    9  alias
+   10  alias 
+   11  alias c='clip.exe'
+   12  alias cm='/mnt/c'
+   13  alias cw='cd /mnt/c/users/jimst/Downloads'
+   14  alias dw='cd /mnt/c/users/jimst/Downloads'
+   15  alias md='mkdir'
+   16  alias n="node"
+   17  alias ym='youtube-dl -f 18'
+   18  app.js
+   19  apt-get
+   20  a=`pwd | sed 's/.*/"&"/' `
+   21  asdf
+   22  asdf 2> f
+   23  at a | nl
+   24  awk '$0 { print ++nr, $0; next } { print }' a
+   25  awk aw v
+   26  awk '/de/{print}' v
+   27  awk '/^d/{print}' v
+   28  awk '/d/{print}' v
+   29  awk '/^drw/{print}' v
+   30  awk '/drw/{print}' v
+   31  awk '/d.*x/{print}' v
+   32  awk -f aw u
+   33  awk -f aw v
+   34  awk -f j
+   35  awk '/js/{print}' v
+   36  awk '/rw/{print}' v
+   37  awk '/^s/{print}' v
+   38  bind -l
+   39  bind -l | vim -
+   40  bind -p
+   41  bind -p | less
+   42  b.js
+   43  bundle2.js
+   44  cd /data/db
+   45  cd db
+   46  cd dev
+   47  cd /dev
+   48  cd dist
+   49  cd .dotfiles
+   50  cd Down
+   51  cd Down*
+   52  cd /etc
+   53  cd /etc/acpi/
+   54  cd fu
+   55  cd git
+   56  cd her
+   57  cd hero*
+   58  cd /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+   59  cd /home/steff007/p/shakes
+   60  cd /home/steff007/p/tra
+   61  cd /home/steff007/p/tra/scss
+   62  cd /home/steff007/p/util
+   63  cd /home/steff007/p/util/webpack
+   64  cd interfaces.d
+   65  cd jimst
+   66  cd js
+   67  cd M
+   68  cd M*
+   69  cd mern
+   70  cd /mnt/c
+   71  cd /mnt/c/all
+   72  cd /mnt/c/mv
+   73  cd /mnt/c/Users/jimst/Downloads
+   74  cd /mnt/c/Users/jimst/OneDrive
+   75  cd /mnt/c/Windows/Panther
+   76  cd models
+   77  cd mon*
+   78  cd mong*
+   79  cd mongo
+   80  cd mongodb
+   81  cd mv
+   82  cd net*
+   83  cd p
+   84  cd p 
+   85  cd pix
+   86  cd play
+   87  cd p/shakes
+   88  cd pup
+   89  cd quotes
+   90  cd sc*
+   91  cd scrap
+   92  cd scss
+   93  cd serv
+   94  cd shakes
+   95  cd ../shakes
+   96  cd ..\shakes
+   97  cd shakes/
+   98  cd src
+   99  cd swap 
+  100  cd tra
+  101  cd trav
+  102  cd ts
+  103  cd uf
+  104  cd users
+  105  cd /usr/lib/node_modules
+  106  cd util
+  107  cd vid
+  108  cd webpack
+  109  cd ./work/heroku/.git/refs/remotes/origin/
+  110  cd ./work/heroku/.git/refs/remotes/origin/HEAD
+  111  chmod +rwx data
+  112  cm
+  113  cp -a /home/steff007/p/tra/git/dist/img /home/steff007/p/tra/dist
+  114  cp .bash_h* histb
+  115  cp .bash_history hisback
+  116  cp b.js /mnt/c/all
+  117  cp /dev/null 'a file with spaces in the name'
+  118  cp /home/steff007/p/tra/git/dist/img /home/steff007/p/tra/dist
+  119  cp -R -n mongodb-linux-x86_64-3.6.5/ mongodb
+  120  cp u ub
+  121  curl -a https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html | html2text | sed '/^\s*$/d'
+  122  curl https://old.reddit.com/top/
+  123  curl https://www.mnlottery.com/games/lotto_games/lotto_results/
+  124  curl http://www.gutenberg.org/files/1524/1524-0.txt
+  125  curl http://www.gutenberg.org/files/1524/1524-0.txt | wc
+  126  curl http://www.startribune.com/weather/
+  127  curl http://www.startribune.com/weather/ | html2text
+  128  curl http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | vim -
+  129  curl http://www.startribune.com/weather/ | html2text | vim -
+  130  curl -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36" https://old.reddit.com/top/
+  131  curl -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36" http://stackoverflow.com/questions/28760694/how-to-use-curl-to-get-a-get-request-exactly-same-as-using-chrome
+  132  curl -Lks http://bit.do/cfg-ini
+  133  curl -Lks http://bit.do/cfg-ini | vim -
+  134  curl -O https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.6.5.tgz
+  135  curl -s https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html | html2text | sed '/^\s*$/d'
+  136  curl -s https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html | html2text | sed '/^\s*$/d' | vim -
+  137  curl -s http://www.gutenberg.org/files/1524/1524-0.txt > h
+  138  curl -s http://www.gutenberg.org/files/1524/1524-0.txt | wc
+  139  curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/ [location-val/,$!d' | vim -
+  140  curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/[location-val/,$!d' | vim -
+  141  curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/location-val/,$!d' | vim -
+  142  curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/Minneapolis/,$!d' | vim -
+  143  curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/Saturday/,$!d' 
+  144  curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/Saturday/,$!d' | vim -
+  145  curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | vim -
+  146  cw
+  147  date
+  148  del
+  149  df
+  150  df -h
+  151  diff --git a/scrap/scrape.js b/scrap/scrape.js
+  152  dir
+  153  dir -a
+  154  dos2unix
+  155  dpkg -l
+  156  dpkg -l > l
+  157  dpkg -l | vim -
+  158  du
+  159  du -ah | sort -h
+  160  du -ah | sort -h #files by size
+  161  du -ah | sort -h > k
+  162  du --d=0
+  163  du -d=0
+  164  du -h
+  165  du -h --max-depth=0
+  166  du --max-depth=0
+  167  du --total
+  168  dw
+  169  echo 1.233 | awk '{print $0}'
+  170  echo 1.233 | awk '{printf "t%d", $0}'
+  171  echo 1.233 | awk '{printf "\t%d\n", $0}'
+  172  echo 1 | awk '{print $0}'
+  173  echo alias c='clip.exe'
+  174  echo alias c='clip.exe' | c
+  175  echo day | sed s/day/night/ 
+  176  echo $k
+  177  echo $PATH
+  178  echo $PATH | vim -
+  179  echo the date is `date`
+  180  echo the date is `l`
+  181  echo wc u | awk '{printf ("Word Count: %'"'"'d\n", $1)}' 
+  182  echo wc u | awk '{printf ("Word Count: %'"'"'d\n", $1)}' #wc
+  183  env
+  184  env | grep PAT
+  185  exit
+  186  exort u='https://old.reddit.com/top/'
+  187  export EDITOR='program'
+  188  export EDITOR='vim'
+  189  export PATH=/home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+  190  export PATH=/home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin:$PATH
+  191  export u="http://localhost:3000/"
+  192  export u='https://example.com'
+  193  export u='https://old.reddit.com/top/'
+  194  fg
+  195  find
+  196  find 
+  197  find ~ -maxdepth 1 -type f -name ".*"
+  198  find ~ -maxdepth 1 -type f -name ".bash*"
+  199  find ~ -maxdepth 1 -type f -name ".rc*"
+  200  find -name 'main.js'
+  201  find -type f -mtime +1
+  202  find -type f mtime +1
+  203  find type -f mtime +1
+  204  find -type f -mtime +1000
+  205  find -type f -mtime +5
+  206  find ~ -type f -name ".*"
+  207  find ~ -type -maxdepth 1 f -name ".*"
+  208  for i in {1..100}; do date; done
+  209  for i in {1..100}; do echo $i; done
+  210  for i in {1..100}; echo $i; done
+  211  for i in {1..100};echo $i;done
+  212  for i in {1..25}; do cat u>>ub; done
+  213  for i in {1..5}; do cat u>>ub; done
+  214  for i in {1..5}; do echo $i; done
+  215  for i in {1..5}; echo i
+  216  gcc -o p p.c
+  217  git add .
+  218  git add.
+  219  git clone https://github.com/bradtraversy/modern_portfolio.git .
+  220  git clone https://github.com/bradtraversy/pixabay_image_finder.git .
+  221  git clone https://github.com/jonray007/heroku.git
+  222  git clone https://github.com/keithweaver/MERN-boilerplate.git mern
+  223  git commit -m 'images'
+  224  git commit -m "Initial WorkFlow"
+  225  git commit -m "modifications"
+  226  git commit -m 'part 3'
+  227  git commit -m "second"
+  228  git config --list
+  229  git diff
+  230  git diff origin/master
+  231  git diff origin/master - -scrape.js
+  232  git diff origin/master -- scrape.js
+  233  git diff origin/master --scrape.js
+  234  git diff @{upstream}
+  235  git diff @{upstream} > d
+  236  git fetch origin ; git diff --name-only master origin/master 
+  237  git fetch origin master
+  238  git init
+  239  git log
+  240  git logs
+  241  git push
+  242  git remote -v
+  243  git status
+  244  git status | vim -
+  245  glances
+  246  grep -C 3 -n youtube l
+  247  grep -i -a -B100 -A100 'xterm' /dev/sda1
+  248  grep -n "THE " a
+  249  grep -n "THE T" a
+  250  grep -n "THE TRA " a
+  251  grep -n youtube l
+  252  grep youtube l
+  253  h
+  254  h 
+  255  h 10
+  256  h -10
+  257  h 20
+  258  h -20
+  259  h 5
+  260  h -a
+  261  h | clip.exe
+  262  head -n 20 s
+  263  head -n 5 s
+  264  head -n 8 s
+  265  head -n 8 s > t
+  266  head ub | awk '{print NR, $0}'
+  267  head * | vim -
+  268  h | head
+  269  history -a
+  270  history | cut -c 8- | sort | uniq
+  271  history | cut -c 8- | sort | uniq > .bash_history
+  272  history | cut -c 8- | sort | uniq | wc
+  273  /home/steff007/p/fu
+  274  /home/steff007/p/her/heroku
+  275  /home/steff007/p/shakes
+  276  /home/steff007/p/tra
+  277  /home/steff007/p/tra/git/dist
+  278  /home/steff007/p/util/scrap
+  279  /home/steff007/p/util/webpack
+  280  h tail
+  281  h | tail
+  282  h -tail
+  283  htop
+  284  htop'
+  285  "https://www.youtube.com/watch?v=H_a46WJ1viA"
+  286  https://www.youtube.com/watch?v=H_a46WJ1viA: No such file or directory
+  287  h | vim -
+  288  ifconfig
+  289  index.html
+  290  ipython
+  291  ipython3
+  292  jobs
+  293  kksf;lk;j
+  294  k=`ls`
+  295  l
+  296  l /
+  297  l\
+  298  L
+  299  l a
+  300  l -a
+  301  l -a *bash
+  302  l -a | ln
+  303  l -a s*
+  304  last
+  305  l -a | wc
+  306  l | awk '/[a-z]/{print}'
+  307  l | awk '/[A-Z]/{print}'
+  308  l | awk '/^d/{print}'
+  309  l con*
+  310  l da*
+  311  l > del
+  312  l > /dev/null 2>&1
+  313  l *.js
+  314  l *.json
+  315  l *.json | vim -
+  316  l >l
+  317  l > l
+  318  l mp3
+  319  l *mp4
+  320  l n*
+  321  l .pro*
+  322  ls
+  323  l s*
+  324  ls 
+  325  ls  .*
+  326  ls /
+  327  ls /?
+  328  l -S
+  329  ls -1
+  330  ls -a
+  331  ls | awk '/^d/{print}'
+  332  ls | c
+  333  ls | clip.exe
+  334  ls -d .[^.]*
+  335  ls -d .*
+  336  ls -d .[^.]* | vim -
+  337  ls exit
+  338  ls help
+  339  ls .ipython
+  340  ls *.json | vim -
+  341  ls /?KY
+  342  ls -ld .*
+  343  ls /lib/cpp
+  344  ls /lib/cpp 
+  345  ls -lSr
+  346  ls -lSrh
+  347  ls *.mp4
+  348  ls .nano
+  349  ls -p
+  350  ls -Q
+  351  ls -s
+  352  ls *.tgz
+  353  ls /var/log
+  354  ls | vim -
+  355  l v
+  356  l > v
+  357  mailx
+  358  man du
+  359  man find
+  360  man head
+  361  man ls
+  362  man mkdir
+  363  man ping
+  364  man rclone
+  365  man rcp
+  366  man sed print
+  367  man source
+  368  man tmux
+  369  man tmux | g attach
+  370  man tmux | g attach | less
+  371  man tmx
+  372  md fu
+  373  md git
+  374  md js
+  375  md mp3
+  376  md serv
+  377  mkdir /data/db
+  378  mkdir dist
+  379  mkdir .dotfiles
+  380  mkdir her
+  381  mkdir /mnt/c/mv
+  382  mkdir /mnt/mv
+  383  mkdir mongo
+  384  mkdir -p /data/db
+  385  mkdir pix
+  386  mkdir -p mongodb
+  387  mkdir quotes
+  388  mkdir vid
+  389  mk serv
+  390  mongo
+  391  mongo $
+  392  mongod
+  393  mongod 
+  394  mongodb
+  395  mongodb --version
+  396  mongod --help
+  397  mongod --help | vim -
+  398  mongod --httpinterface
+  399  mongod --rest --httpinterface
+  400  mongod --version
+  401  mongo $ l
+  402  mtr
+  403  mtr 8.8.8.8
+  404  mv b.js /mnt/c/all
+  405  mv C* happy.mp4
+  406  mv *.json /mnt/c/p/fu/m.json
+  407  mv *.json /mnt/c/projects/fu/m.json
+  408  mv Lin* lin.mp3
+  409  mv lin* mp3
+  410  mv main.js /js
+  411  mv main.js .js
+  412  mv *mp4 /mnt/c/mv
+  413  mv *.mp4 /mnt/c/mv/yes.mp4
+  414  mv N*.mp3 /mnt/c/mv Four.mp3
+  415  mv N*.mp3 /mnt/c/mv/Four.mp3
+  416  mv Sim* /mnt/c/mv Br.mp3
+  417  mv Sim* /mnt/c/mv/Br.mp3
+  418  mv W* ubun.mp3
+  419  n abc.js
+  420  nb fun
+  421  nb fun.js
+  422  n b.js
+  423  nb scrape.js
+  424  n cf
+  425  n fun.js
+  426  nl a
+  427  nl s
+  428  nl u
+  429  node abc.js
+  430  node b.js
+  431  node commands.js
+  432  node commands.js | less
+  433  node commands.js --version
+  434  node commands --version
+  435  node count.js
+  436  node dim.js
+  437  nodee inspect-brk break
+  438  node index.js
+  439  node --inspect-break str.js
+  440  node --inspect-brk abc.js
+  441  node --inspect-brk break
+  442  node inspect-brk break
+  443  node --inspect-brk str.js
+  444  node j.js
+  445  node j.js > 2>&1
+  446  node j.js &> f
+  447  node j.js &> f &
+  448  node j.js > j &
+  449  node j.js &> j
+  450  node j.js &  > j
+  451  nodemon
+  452  nodemon ser.js
+  453  node scrape.js
+  454  node scrap.js
+  455  node ser.js
+  456  node spear.js
+  457  node str.js
+  458  node t.js
+  459  node ts1
+  460  npm i axios
+  461  npm i chai
+  462  npm i express
+  463  npm init -y
+  464  npm install
+  465  npm install firebase-admin
+  466  npm install -g typescript
+  467  npm install mongoose commander inquirer
+  468  npm install @types/node 
+  469  npm i readline
+  470  npm i shelljs
+  471  npm ls
+  472  npm ls --depth=0
+  473  npm ls --depth=0 > l &
+  474  npm run sass
+  475  npm run start:dev
+  476  npm start
+  477  n r.js
+  478  n rl
+  479  n scrape.js
+  480  nslookup https://www.washingtonpost.com/
+  481  nslookup www.google.com
+  482  n ./src/abc
+  483  ./p
+  484  ping 
+  485  ping 192.168.1.1
+  486  ping 192.168.1.30
+  487  ping 198.105.254.64
+  488  ping https://www.washingtonpost.com/
+  489  printenv
+  490  printf "jim"
+  491  printf "jim\n"
+  492  ps
+  493  pwd
+  494  pwd | awk '{print """$0"""}'
+  495  pwd | awk '{print "$0"}'
+  496  pwd | awk '{print \"$0\"}'
+  497  pwd c
+  498  pwd | c
+  499  pwd | clip
+  500  pwd | clip.exe
+  501  pwd | sed 's/.*/"&"/' 
+  502  q
+  503  rclone
+  504  rclone config
+  505  rclone copy g stef:
+  506  rclone lsd remote
+  507  rclone lsd stef:
+  508  rclone ls remote
+  509  rcp
+  510  rm a
+  511  rm con*
+  512  rm d
+  513  rm del2
+  514  rm f
+  515  rm -i i
+  516  rm *.json
+  517  rm Lin*
+  518  rm *.mp3
+  519  rm .nano
+  520  rm -rf .git
+  521  rm -rf .v8*
+  522  rm -rf.v8*
+  523  rm *.tgz
+  524  rm .viminfo*
+  525  -rwxrwxrwx 1 steff007 steff007  16K Jun 28 23:59 package-lock.json
+  526  s
+  527  s 
+  528  s [a-z]
+  529  s bash
+  530  s clip
+  531  s color
+  532  screen
+  533  script tes
+  534  s du
+  535  sed  '100,110p' a
+  536  sed '3s/a/xxx/g' t
+  537  sed '3s/a/xxx/' t
+  538  sed '/./,/^$/!d'  a
+  539  sed '/^$/d;G' s
+  540  sed G l
+  541  sed -i '1d' j
+  542  sed -i 's/a/xxxxxx/' s
+  543  sed i 's/a/xxxxxx/' s
+  544  sed -i 's/xxxxxx/a/g' s
+  545  sed '/i/xxxxxxxxxxxx/' s
+  546  sed l
+  547  sed = l | sed 'N;s/\n/\t/'
+  548  sed -n '1000,1005p' u
+  549  sed -n '/^.\{15\}/!p' a
+  550  sed -n '1,5p' t
+  551  sed -n '1,5p' u
+  552  sed -n 3p t
+  553  sed -n '3s/a/xxx/gp' t
+  554  sed -n '3s/a/xxx/g' t
+  555  sed -n '/^.\{65\}/!p' a
+  556  sed -n '/^.\{65\}/p' a
+  557  sed -n a
+  558  sed -ne '100,110' a
+  559  sed -ne '100,110p' a
+  560  sed -n '$p' t
+  561  sed -n $p t
+  562  sed -n p t
+  563  sed -n /s/ t
+  564  sed -n s t
+  565  sed -n '/THE/' a
+  566  sed -n 'THE' a
+  567  sed -n '/THE /=' a | less
+  568  sed -n '/THE/p' a
+  569  sed -n '/THE /p=' a | less
+  570  sed -n '/THE /p' a | less
+  571  sed -n '/THE/p' a | less
+  572  sed p t
+  573  sed s
+  574  sed 's1/a/xxx/' t
+  575  sed s1/a/xxx/ t
+  576  sed '/Saturday/,$!d' a
+  577  sed s/a/xxx t
+  578  sed s/a/xxx/ t
+  579  sed  's:a:xxxx:g' s
+  580  sed  's/a/xxxx/g' s
+  581  sed 's/[A-Z]/[a-z]/' s
+  582  sed 's/[a-z]//g' s
+  583  sed 's/[a-z]/*/g' s
+  584  sed 's/[A-Z]/(&)/g' s
+  585  sed '/s/[a-z]//' s
+  586  sed '/s/[a-z]/*/' s
+  587  sed 's/[a-z]/*/' s
+  588  sed  's/[A-Z]/xxxx/g' s
+  589  sed 's/[A-Z]/xxxxxxxxxxxx/' s
+  590  sed 's/^c/ooooooooo/' s
+  591  sed 's/i/xxxxxxxxxxxx/' s
+  592  sed 's/i./xxxxxxxxxxxx/' s
+  593  sed 's/i.*/xxxxxxxxxxxx/' s
+  594  sed  /s/ t
+  595  sed  /s/// t
+  596  sed  s/// t
+  597  sed /s t
+  598  sed s t
+  599  sed 's/^[ \t]*//' a
+  600  sed 's/the/(&)/g' s
+  601  sed 's/the/"&"/' s
+  602  sed 's/the/($)/' s
+  603  sed 's/the/(&)/' s
+  604  sed "s/'t/not/" s
+  605  sed "s/'t/not\ \ /" s
+  606  sed "s/'t/not\$ \ /" s
+  607  sed "s/\'t/not/" s
+  608  sed "s/\'t/not" s
+  609  sed 's/t/ttt/g'
+  610  sed 's/t/ttt/g' a
+  611  sed 's/t/ttt/g' s
+  612  sed '/sweet/,$!d' a
+  613  sed  's/xxxxxx/a/g' s
+  614  sed t
+  615  s export
+  616  s git
+  617  s grep
+  618  s his
+  619  s hist
+  620  s insp
+  621  s inspect
+  622  s j.js
+  623  s j.sj
+  624  s mnt
+  625  s mon
+  626  s mong
+  627  s mongo
+  628  s mongodb
+  629  source a
+  630  source d
+  631  source n
+  632  s pkg
+  633  s proc
+  634  s rclone
+  635  s rsync
+  636  s s
+  637  strings -n 1 < /dev/urandom | tr -d '[:space:]' | head -c15
+  638  sudo adduser del
+  639  sudo adduser susie test
+  640  sudo adduser user susie test
+  641  sudo apt-get update
+  642  sudo apt install ipython3
+  643  sudo apt install python-pip
+  644  sudo chmod 777 data -R
+  645  sudo chmod +rwx data
+  646  sudo chmod +rwx db
+  647  sudo groupadd test
+  648  sudo groupdel test
+  649  sudo mkdir /data/db
+  650  sudo mkdir -p /data/db
+  651  sudo npm install -g typescript
+  652  sudo passwd susie
+  653  sudo pip install --upgrade youtube-dl
+  654  sudo pip install youtube-dl
+  655  sudo userdel del
+  656  sudo vim /etc/group
+  657  sudo vim /etc/network/interface
+  658  s uniq
+  659  s webp*
+  660  s webpack
+  661  s you
+  662  s yout
+  663  s youtube
+  664  tar -zxvf mon*
+  665  tmux
+  666  tmux attach
+  667  tmux detach
+  668  tmux -detach
+  669  tmux ls
+  670  tmux -ls
+  671  top
+  672  total 16K
+  673  touch a
+  674  touch _config.scss
+  675  touch fun.js
+  676  touch main.js
+  677  touch _menu.scss
+  678  tree
+  679  vi ~/.inputrc
+  680  vim
+  681  vim a
+  682  vim array.txt
+  683  vim aw
+  684  vim b
+  685  vim .b*
+  686  vim .bas*
+  687  vim .bash_history
+  688  vim ~/.bashrc
+  689  vim .bashrc
+  690  vim b.js
+  691  vim cf.js
+  692  vim clean
+  693  vim clean.html
+  694  vim con*
+  695  vim .config
+  696  vim console-1533392801163.log
+  697  vim d
+  698  vim .dbshell
+  699  vim /etc/passwd
+  700  vim f
+  701  vim .gitignore
+  702  vim h
+  703  vim HEAD
+  704  vim interfaces
+  705  vim interfaces.d
+  706  vim j
+  707  vim j.js
+  708  vim k
+  709  vim l
+  710  vim n
+  711  vim o
+  712  vim p.c
+  713  vim rl.js
+  714  vim s
+  715  vim scrape.j
+  716  vim scrape.js
+  717  vim t
+  718  vim t.js
+  719  vim ~/.tmux.conf
+  720  vim .tmux.conf
+  721  vim ub v
+  722  vim .v8*
+  723  vim .viminf*
+  724  vim .viminf8
+  725  vim ~/vimrc
+  726  vim ~/.vimrc
+  727  vi ~/.vimrc
+  728  vn
+  729  wc
+  730  wc 
+  731  wc a | awk '{printf "%d\n", $1}'
+  732  wc | awk '{printf "%'d\n" $1}'
+  733  wc | awk '{printf "%\'d\n" $1}'
+  734  wc | awk '{printf "%d\n" $1}'
+  735  wc | awk '{printf "%d\n", $1}'
+  736  wc b
+  737  wc b.js
+  738  wc b | LC_ALL=en_US.UTF-8 awk '{ printf("%'"'"'d\n", $0) }'
+  739  wc s
+  740  wc u
+  741  wc uab
+  742  wc u | awk -f j
+  743  wc u | awk '{printf "%'d\n", $1}'
+  744  wc u | awk '{printf "%\'d\n", $1}'
+  745  wc u | awk '{printf "%\d\n", $1}'
+  746  wc u | awk '{printf "%d"'"\n", $1}'
+  747  wc u | awk '{printf "%d\n", $1}'
+  748  wc u | awk '{printf ("%'"'"'d\n", $1)}'
+  749  wc u | awk '{printf ("Word Count: %'"'"'d\n", $1)}'
+  750  wc u | awk '{printf ("Word Count: %'"'"'d\n", $1)}' #word count with commas
+  751  wc ub
+  752  wc ub | awk '{print $2}'
+  753  webpack --config web.js
+  754  webpack --config web.js > output.log 2>&1 &
+  755  webpack --web.js
+  756  which mongodb
+  757  x
+  758  x > /dev/null 2>&1
+  759  xterm
+  760  ym "https://www.youtube.com/watch?v=Fjx_OvreKG4&t=277s"
+  761  youtube-dl -f 18  "https://www.youtube.com/watch?v=46Q4T1aCjAM"
+  762  youtube-dl -f 18 "https://www.youtube.com/watch?v=9_2DiE0FZKQ"
+  763  youtube-dl -f 18 "https://www.youtube.com/watch?v=FYLOvE1NCTA"
+  764  youtube-dl -f 18 https://www.youtube.com/watch?v=FYLOvE1NCTA
+  765  youtube-dl -f 18 "https://www.youtube.com/watch?v=RFh-C6upvh8"
+  766  youtube-dl -f 18 "https://www.youtube.com/watch?v=xc7nvwngjxU"
+  767  youtube-dl -f 18 "ttps://www.youtube.com/watch?v=9_2DiE0FZKQ"
+  768  youtube-dl -F https://www.youtube.com/watch?v=zTzoDvGig7M
+  769  youtube-dl https://www.youtube.com/watch?v=FYLOvE1NCTA
+  770  youtube-dl https://www.youtube.com/watch?v=Gdq-n2SbuZo
+  771  youtube-dl https://www.youtube.com/watch?v=Rg4y-xf46Do&list=PLhHJAtfNDCe7y7bFG1MWCr2I6ygK0kowK&index=259
+  772  youtube-dl https://www.youtube.com/watch?v=TVXcNjeYxMk&index=57&list=PLhHJAtfNDCe7y7bFG1MWCr2I6ygK0kowK
+  773  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=1lWJXDG2i0A"
+  774  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=cinoGhY5CeI"
+  775  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=dMCbycerRVY"
+  776  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=ED5s1-Fe9FA"
+  777  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=H_a46WJ1viA"
+  778  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=Id_UYLPSn6U"
+  779  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=PTMMS88gi6c"
+  780  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=TkL_IevacnU"
+  781  youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=zTzoDvGig7M
+  782  youtube-dl -x --audio-format mp4 "https://www.youtube.com/watch?v=46Q4T1aCjAM"
+  783  cp backu .bash_history
+  784  vn
+  785  h
+  786  s cat
+  787  h
+  788   h
+  789  dw
+  790  l
+  791  cd \mv
+  792  c
+  793  alias
+  794  cd /mnt/c
+  795  cd mv
+  796  l
+  797  mv Linux* Linux.mp3
+  798  s rclone
+  799  rclone ls
+  800  l rcopy
+  801  s rcopy
+  802  h > vim -
+  803  h
+  804  h | vim -
+  805  rclone config
+  806  rclone lsd remote
+  807  rclone lsd remote:
+  808  rclone lsd stef:
+  809  l
+  810  l L*
+  811  rclone copy Linux.mp3 stef
+  812  rclone lsd stef:
+  813  rclone ls stef:
+  814  rclone copy Linux.mp3 stef:
+  815  cd p
+  816  rclone ls stef:
+  817  cd p
+  818  md ws
+  819  cd ws
+  820  npm init -y
+  821  npm install website-scraper
+  822  vim site.js
+  823  l
+  824  n site.js
+  825  l
+  826  n site.js
+  827  l
+  828  n site.js
+  829  node -e site.js
+  830  l
+  831  n site.js
+  832  cd p
+  833  l
+  834  cd ws
+  835  l
+  836  exit
+  837  tmux
+  838  tmux ls
+  839  tmux a 2
+  840  tmux attach 2
+  841  l
+  842  n site.js
+  843  l
+  844  n site.js
+  845  l
+  846  cd /path/to/save
+  847  l
+  848  n site.js
+  849  cd
+  850  l
+  851  n site.js
+  852  cd -
+  853  n site.js
+  854  l
+  855  vn
+  856  l
+  857  cd mp3
+  858  l
+  859  cd /mnt/c
+  860  md youtube
+  861  cd youtbue
+  862  cd youtube
+  863  s youtube
+  864  alias
+  865  alias ym4="youtube-dl -x --audio-format mp4"
+  866  ym4 "https://www.youtube.com/watch?v=gcx-3qi7t7c"
+  867  youtube-dl -f 18 "https://www.youtube.com/watch?v=gcx-3qi7t7c"
+  868  cd p
+  869  md news
+  870  cd news
+  871  exit
+  872  touch index.html
+  873  l
+  874  touch app.js
+  875  ls -R
+  876  l
+  877  ls -R
+  878  ls -R|grep [A-z]
+  879  ls -R|grep [A-z] > w
+  880  vim w
+  881  curl https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_gemeenten |
+  882  vim d
+  883  source d
+  884  rm d
+  885  cd /mnt/c/mv
+  886  alias
+  887  s youtube
+  888  s youtu
+  889  youtube-dl -F
+  890  s you
+  891  youtube-dl -F "https://www.youtube.com/watch?v=_J9NpHKrKMw"
+  892  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=TkL_IevacnU"
+  893  htop
+  894  tmux
+  895  tmux ls
+  896  s you
+  897  ping www.google.com
+  898  curl http://www.umn.edu
+  899  s yout
+  900  sudo youtube-dl -U
+  901  sudo pip install -U youtube-dl
+  902  pip install --upgrade pip
+  903  s youtube | tail
+  904  youtube-dl -x --audio-format mp3 "youtube-dl -x --audio-format mp3"
+  905  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=w26c7NSdPCw"
+  906  l
+  907  mv Ob* /mnt/c/mv/Ob.mp3
+  908  cd p
+  909  l
+  910  cd news
+  911  l
+  912  cat app.js
+  913  l
+  914  touch sw.js
+  915  s you
+  916  youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=WSuVCyT63II"
+  917  l
+  918  mv Y* /mnt/c/mv/yes.mp3
+  919  npm list -g --depth 0
+  920  eslint --init
+  921  l
+  922  eslint --init
+  923  npm init -y
+  924  l
+  925  eslint --init
+  926  l
+  927  eslint app.js
+  928  eslint --init
+  929  eslint app.js
+  930  l
+  931  l -a
+  932  curl -H "Authorization: Bearer "$(gcloud auth application-default print-access-token) -H "Content-Type: application/json; charset=utf-8" --data "{
+  933    'input':{
+  934      'text':'I\'ve added the event to your calendar.'
+  935    },
+  936    'voice':{
+  937      'languageCode':'en-gb',
+  938      'name':'en-GB-Standard-A',
+  939      'ssmlGender':'FEMALE'
+  940    },
+  941    'audioConfig':{
+  942      'audioEncoding':'MP3'
+  943    }
+  944  }" "https://texttospeech.googleapis.com/v1beta1/text:synthesize"
+  945  vim s
+  946  l
+  947  source s
+  948  grep a files
+  949  grep a *
+  950  grep a reg*
+  951  grep reg *
+  952  grep whic *
+  953  grep shebang *
+  954  l
+  955  grep -r shebang *
+  956  cd ..
+  957  mkdir dic
+  958  cd p
+  959  cd dic
+  960  npm init -y
+  961  npm i express mysql
+  962  l
+  963  touch app.js
+  964  l
+  965  cd p
+  966  cd dic
+  967  l
+  968  h
+  969  exit
+  970  tmux
+  971  tmux ls
+  972  tmux a 1
+  973  tmux a 0
+  974  tmux ls
+  975  tmux a -t windows
+  976  nodemon app.js
+  977  l
+  978  cd data
+  979  l
+  980  cp v.json ..
+  981  cd ..
+  982  l
+  983  n r
+  984  cd p
+  985  cd dic
+  986  l
+  987  vim v.json
+  988  cd
+  989  l -a .b8
+  990  l -a .b*
+  991  vim .bash_h*
+  992  s h
+  993  tmux a -t 0
+  994  s mongo
+  995  cd /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+  996  mongodb --version
+  997  l
+  998  mongod --version
+  999  mongod
+ 1000  exit
+ 1001  ps
+ 1002  exit
+ 1003  ps
+ 1004  tmux ls
+ 1005  exit
+ 1006  tmux
+ 1007  tmux ls
+ 1008  ps
+ 1009  ps -aux
+ 1010  tmux kill-server
+ 1011  nb r
+ 1012  ps -aux
+ 1013  s mongo
+ 1014  cd /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+ 1015  l
+ 1016  find ~ -type f -name ".*"
+ 1017  find ~ -type f -name ".mp3" > mp3
+ 1018  tmux ls
+ 1019  s tmux
+ 1020  tmux a -t 0
+ 1021  find ~ -type f -name ".mp3" > mp3s
+ 1022  tmux -detach
+ 1023  tmux detach
+ 1024  tmux
+ 1025  tmux ls
+ 1026  s tmux
+ 1027  tmux kill-server
+ 1028  mongod
+ 1029  mongo
+ 1030  ps -aux
+ 1031  exit
+ 1032  ps -aux
+ 1033  s mong
+ 1034  cd /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+ 1035  cd p
+ 1036  cd dic
+ 1037  l
+ 1038  vim v.json
+ 1039  tmux ls
+ 1040  s tmux
+ 1041  tmux a -t 0
+ 1042  s
+ 1043  s tmux
+ 1044  tmux ls
+ 1045  ps -aux
+ 1046  cd p
+ 1047  tmux ls
+ 1048  tmux a -t 0
+ 1049  exit
+ 1050  tmux
+ 1051  tmux ls
+ 1052  h
+ 1053  tmux ls
+ 1054  cd
+ 1055  s mong
+ 1056  cd /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+ 1057  l
+ 1058  pwd
+ 1059  cd /mnt/c/all
+ 1060  l
+ 1061  mv MOC* /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+ 1062  cd
+ 1063  l
+ 1064  cd -
+ 1065  s mong
+ 1066  cd /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+ 1067  l
+ 1068  mongo
+ 1069  l
+ 1070  vim MO*
+ 1071  mongoimport --db mylearning --collection colors --jsonArray --file MOCK_DATA.json
+ 1072  mongo
+ 1073  s pwd
+ 1074  pwd | c
+ 1075  /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+ 1076  cd data
+ 1077  l
+ 1078  cp x.json /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+ 1079  l
+ 1080  mongoimport --db my --collection x --jsonArray --file x.json
+ 1081  vim x.json
+ 1082  mongoimport --db my --collection x --jsonArray --file x.json
+ 1083  s mongo
+ 1084  vim .bashrc
+ 1085  l -a *.
+ 1086  l -a .*
+ 1087  ls -a
+ 1088  l -a
+ 1089  l -ld .?* 
+ 1090  l -ld .?* #dot files
+ 1091  ls | grep /*b/
+ 1092  ls | grep /.*/
+ 1093  ls | grep a
+ 1094  l | grep a
+ 1095  l | grep b
+ 1096  l -a | grep b
+ 1097  vim ~/.bash_aliases
+ 1098  l -a
+ 1099  alias
+ 1100  source .bash_aliases
+ 1101  alias
+ 1102  exit
+ 1103  alias
+ 1104  cm
+ 1105  l
+ 1106  mongod
+ 1107  cm
+ 1108  mongodb
+ 1109  l
+ 1110  cm
+ 1111  l
+ 1112  mongo
+ 1113  cd p
+ 1114  cd news
+ 1115  npm i mongodb
+ 1116  l
+ 1117  n mon
+ 1118  mongo
+ 1119  mongo test --eval "printjson(db.getCollectionNames())"
+ 1120  curl https://www.twincities.com/2018/08/13/21-year-old-killed-in-st-paul-shooting-remembered-as-devoted-dad/
+ 1121  h
+ 1122  cd ../dic
+ 1123  l
+ 1124  npm i mongodb
+ 1125  find .
+ 1126  find -name "*.mp3" > mp3x
+ 1127  cd
+ 1128  s yout
+ 1129  alias
+ 1130  s #
+ 1131  s dot
+ 1132  l -ld .?*
+ 1133  vim .bash_aliases
+ 1134  source .bash_aliases
+ 1135  alias
+ 1136  vim mp3x
+ 1137  cd /mnt
+ 1138  s find
+ 1139  find -name "*.mp3" > mp3x
+ 1140  l
+ 1141  cd st*
+ 1142  l
+ 1143  y3 'https://www.youtube.com/watch?v=cZjJ3IpAIiY'
+ 1144  tmux ls
+ 1145  l
+ 1146  cd /mnt/c
+ 1147  l
+ 1148  md books
+ 1149  cd books
+ 1150  alias
+ 1151  y3 'https://www.youtube.com/watch?v=sAN-nLp70SY'
+ 1152  y3 'https://www.youtube.com/watch?v=baeg47KS-jo&t=3731s'
+ 1153  cd p
+ 1154  npm install -g ndb
+ 1155  sudo npm install -g ndb
+ 1156  l
+ 1157  cd dic
+ 1158  l
+ 1159  ndb r.js
+ 1160  l
+ 1161  fg
+ 1162  vn
+ 1163  cd
+ 1164  cd p
+ 1165  cd dic
+ 1166  l
+ 1167  sed p r.js
+ 1168  sed r.js
+ 1169  sed -n -p3 r.js
+ 1170  sed -n 3p r.js
+ 1171  sed -n 1p r.js
+ 1172  sed -n '3,4p' r.js
+ 1173  sed p r.js
+ 1174  l
+ 1175  sed -n p r.js v.json
+ 1176  l
+ 1177  sed -n p r.js app.js
+ 1178  sed -n '/vice/p' v.json 
+ 1179  sed -n '/vice\s/p' v.json 
+ 1180  sed -n '/\svice\s/p' v.json 
+ 1181  sed -n '/\s+vice\s/p' v.json 
+ 1182  nl v.json
+ 1183  nl v.json | sed p
+ 1184  nl v.json | sed -n p
+ 1185  nl v.json | sed -n p /vice/
+ 1186  nl v.json | sed -n p
+ 1187  nl v.json | sed -n p '/vice/'
+ 1188  nl v.json | sed -n '/vice/p'
+ 1189  nl v.json | sed -n '/\s+vice/p'
+ 1190  nl v.json | sed -n '/vice/p'
+ 1191  nl v.json | sed -n '/\svice/p'
+ 1192  nl v.json | sed -n '/def/p'
+ 1193  nl v.json | sed -n '/def/p' | wc
+ 1194  sed -n '/def/p'
+ 1195  sed -n '/def/p' v.json
+ 1196  sed -n '/def/p' v.json | vim -
+ 1197  sed 's/up/UP' v.json
+ 1198  sed 's/up/UP/' v.json
+ 1199  sed 's/up/UP/w up' v.json
+ 1200  l
+ 1201  cat up
+ 1202  l
+ 1203  cat app.js r.js
+ 1204  sed '/down/ a\
+ 1205  BBBBBBBBBB
+ 1206  v.json
+ 1207  sed '/down/ a\
+ 1208  BBBBBB
+ 1209  v.json'
+ 1210  sed '/down/ a\
+ 1211  BBBBBB
+ 1212  '
+ 1213  l
+ 1214  alias
+ 1215  dw
+ 1216  l
+ 1217  ls
+ 1218  du
+ 1219  ls | vim -
+ 1220  find -name "*.mid"
+ 1221  find -name "*.js"
+ 1222  cat a >
+ 1223  cat > t
+ 1224  cat > a.t
+ 1225  cat > b.t
+ 1226  cat a.t b.t
+ 1227  find -name '*.t'
+ 1228  find -name '*.t' -exec cat {}
+ 1229  find -name '*.t' -exec cat {} \
+ 1230  exit
+ 1231  dw
+ 1232  find -name '*.t'
+ 1233  find -name '*.t' -exec cat {} \;
+ 1234  md t
+ 1235  md t2
+ 1236  find -name '*.t' -exec mv {} .\t2 \;
+ 1237  cd t2
+ 1238  ls
+ 1239  l
+ 1240  cd ..
+ 1241  l
+ 1242  cat t
+ 1243  ls .
+ 1244  l
+ 1245  mv desktop* .\t2
+ 1246  cd t2
+ 1247  l
+ 1248  cd ..
+ 1249  l .\t2
+ 1250  s dot
+ 1251  l -d .?*
+ 1252  cat .t2
+ 1253  find ".*"
+ 1254  mv desktop* \t2
+ 1255  cat > d1
+ 1256  mv d1 \t2
+ 1257  l t2
+ 1258  h
+ 1259  md mp2
+ 1260  l
+ 1261  find -name '*.tor*'
+ 1262  l -d
+ 1263  ls *.torrent
+ 1264  l *.torrent
+ 1265  find -name '*.tor*' -exec rm {} ;
+ 1266  find -name '*.tor*' -exec rm {} \ ;
+ 1267  s exec
+ 1268  find -name '*.tor*' -exec rm {} \;
+ 1269  ls *.torrent
+ 1270  find -name '*.json*' -exec cp {} \t2 \;
+ 1271  l t2
+ 1272  cd t2
+ 1273  l
+ 1274  rm *
+ 1275  l
+ 1276  cd ..
+ 1277  find -name '*.json*' -exec cp {} \t2 \;
+ 1278  find -name '*.json*'
+ 1279  l t2
+ 1280  find -name -maxdepth 1 '*.json*'
+ 1281  find -maxdepth 1 -name '*.json*'
+ 1282  find -maxdepth 0 -name '*.json*'
+ 1283  ls *.json
+ 1284  find -maxdepth 1 -name '*.json*'
+ 1285  find -maxdepth 1 -name '*.mp3*'
+ 1286  find -maxdepth 1 -name '*.mp3*' | wc
+ 1287  find -maxdepth 1 -name '*.mp3*' | vim -
+ 1288  find -maxdepth 1 -name '*.mp3*' | -exec rm {} \;
+ 1289  h
+ 1290  find -maxdepth 1 -name '*.mp3*' -exec rm {} \;
+ 1291  l *.mp3
+ 1292  l
+ 1293  l | ln
+ 1294  ln | l
+ 1295  ln t
+ 1296  nl t
+ 1297  l |nl
+ 1298  pwd
+ 1299  l *.exe
+ 1300  find -maxdepth 1 -name '*.exe*' -exec rm {} \;
+ 1301  l | nl
+ 1302  l *.mp3 | nl
+ 1303  l *.mp3
+ 1304  ls *.mp3
+ 1305  l
+ 1306  l *.mid | n
+ 1307  l *.mid | nl
+ 1308  l *.mid | vim -
+ 1309  ls *.mid | vim -
+ 1310  find -maxdepth 1 -name '*.mid*' -exec rm {} \;
+ 1311  l | nl
+ 1312  find -maxdepth 1 -name '*.zip*' -exec rm {} \;
+ 1313  l | nl
+ 1314  find -maxdepth 1 -name '*.jpg*' -exec rm {} \;
+ 1315  l | nl
+ 1316  vim Coll*
+ 1317  l
+ 1318  cd 
+ 1319  l
+ 1320  cd /mnt/
+ 1321  cd c
+ 1322  find -name "*.mp3"
+ 1323  tmux ls
+ 1324  tmux
+ 1325  cd /mnt
+ 1326  cd /
+ 1327  l
+ 1328  cd /mnt
+ 1329  l
+ 1330  cd c
+ 1331  l
+ 1332  find -name *.mp3 > /mnt/c/all/mp3s
+ 1333  cd all
+ 1334  l
+ 1335  vim mp3s
+ 1336  curl "http://api.github.com/users"
+ 1337  s curl
+ 1338  curl http://api.github.com/users
+ 1339  curl http://www.twincities.com
+ 1340  curl -a https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html | html2text | sed '/^\s*$/d'
+ 1341  cd p
+ 1342  cd
+ 1343  cd p
+ 1344  l
+ 1345  cd dic
+ 1346  l
+ 1347  cd data
+ 1348  l
+ 1349  echo {1..10}
+ 1350  echo {1..10} | c
+ 1351  1 2 3 4 5 6 7 8 9 10
+ 1352  for i in {1..100};do echo $1;done;
+ 1353  for i in {1..100};do echo $i;done;
+ 1354  for i in {ls};do echo $i;done;
+ 1355  cd /mnt/c
+ 1356  cd you*
+ 1357  l
+ 1358  alias
+ 1359  s youtube
+ 1360  alias 
+ 1361  alias y4='youtube-dl -x --audio-format mp4 '
+ 1362  cd
+ 1363  l -a
+ 1364  vim .bash_ali*
+ 1365  cd -
+ 1366  y4 'https://www.youtube.com/watch?v=1DMolJ2FrNY&t=98s'
+ 1367  s yout
+ 1368   youtube-dl -f 18 'https://www.youtube.com/watch?v=1DMolJ2FrNY&t=102s'
+ 1369  s you
+ 1370  vim ~/.bash_ali*
+ 1371  l
+ 1372  cd 
+ 1373  l
+ 1374  ipython
+ 1375  vim f.sh
+ 1376  source f.sh
+ 1377  ./first.sh
+ 1378  ./f.sh
+ 1379  echo *
+ 1380  cd /mnt/c/all
+ 1381  l
+ 1382  cd hub
+ 1383  l
+ 1384  cd /mnt/c/all
+ 1385  cd hub
+ 1386  l
+ 1387  cd in
+ 1388  cd bin
+ 1389  l
+ 1390  hub
+ 1391  ./hub
+ 1392  hub create -d hubtest
+ 1393  ./hub create -d hubtest
+ 1394  git init
+ 1395  ./hub create -d hubtest
+ 1396  git status
+ 1397  git remote
+ 1398  git remote -a
+ 1399  git remote -v
+ 1400  git add .
+ 1401  git commit -m "all"
+ 1402  git push
+ 1403  git push --set-upstream origin master
+ 1404  git push
+ 1405  git status
+ 1406  git log
+ 1407  git push --set-upstream origin master
+ 1408  git remote add origin https://github.com/wither7007/bin.git
+ 1409  git push -u origin master
+ 1410  git remote add origin https://github.com/wither7007/bin.git
+ 1411  git push -u origin master
+ 1412  l
+ 1413  vim RE*
+ 1414  exit
+ 1415  git remote add origin https://github.com/wither7007/bin.git
+ 1416  git push
+ 1417  git push --set-upstream origin master
+ 1418  git push -f --set-upstream origin master
+ 1419  exit
+ 1420  cd p
+ 1421  l
+ 1422  md git
+ 1423  cd git
+ 1424  git init
+ 1425  git add README.md
+ 1426  cat > README.md
+ 1427  git status
+ 1428  git commit -m "first commit"
+ 1429  git status
+ 1430  git add README.md
+ 1431  git commit -m "first commit"
+ 1432  git remote add origin https://github.com/wither7007/bin.git
+ 1433  git push -u origin master
+ 1434  ipython
+ 1435  python
+ 1436  cd p
+ 1437  cd
+ 1438  cd p
+ 1439  l
+ 1440  cd dic
+ 1441  l
+ 1442  vim v.json
+ 1443  cd ..
+ 1444  md tens
+ 1445  git clone https://github.com/tensorflow/tfjs-examples .
+ 1446  cd tens
+ 1447  git clone https://github.com/tensorflow/tfjs-examples .
+ 1448  yarn
+ 1449  l
+ 1450  cd p
+ 1451  cd tens
+ 1452  cd minst-core
+ 1453  cd mns*
+ 1454  l
+ 1455  cd mnist-core
+ 1456  ls
+ 1457  vn
+ 1458  npm install
+ 1459  npm run watch
+ 1460  exit
+ 1461  vim REA*
+ 1462  cd
+ 1463  cd p
+ 1464  cd dic
+ 1465  l
+ 1466  man head
+ 1467  head 20 v.json > vs.json
+ 1468  man head
+ 1469  head -n 20 v.json > vs.json
+ 1470  head -n 100 v.json > vs.json
+ 1471  vim v.json
+ 1472  cd /mnt/c
+ 1473  cd youtube
+ 1474  alias
+ 1475  y4 'https://www.youtube.com/watch?v=9sWEecNUW-o'
+ 1476  s yout
+ 1477  alias y4='youtube-dl -f 18 '
+ 1478  s alias
+ 1479  vim ~/.bash_aliases
+ 1480  alias
+ 1481  cd p
+ 1482  l
+ 1483  md you
+ 1484  cd you
+ 1485  l
+ 1486  y4 'https://www.youtube.com/watch?v=9sWEecNUW-o'
+ 1487  l
+ 1488  y4 'https://www.youtube.com/watch?v=Da4WHMymGkI'
+ 1489  exit
+ 1490  h
+ 1491  xterm
+ 1492  cd /mnt/c/youtube
+ 1493  l
+ 1494  y4 'https://www.youtube.com/watch?v=t6CBKf8K_Ac&t=81s'
+ 1495  l
+ 1496  y4 'https://www.youtube.com/watch?v=t6CBKf8K_Ac&t=81s'
+ 1497  y4 'https://www.youtube.com/watch?v=TiY5FuwgocI&t=52s'
+ 1498  cd
+ 1499  cd p
+ 1500  md grids
+ 1501  cd grids
+ 1502  touch index.html
+ 1503  touch style.css
+ 1504  s npm
+ 1505  tmux new-window -c "$PWD"
+ 1506  exit
+ 1507  tmux
+ 1508  xterm ls
+ 1509  tmux ls
+ 1510  s tmux
+ 1511  npm i -g parcel
+ 1512  sudo npm i -g parcel
+ 1513  npm install nativefier -g
+ 1514  sudo npm install nativefier -g
+ 1515  cd p
+ 1516  md native
+ 1517  cd native
+ 1518  nativefier "http://medium.com"
+ 1519  javac -version
+ 1520  java -version
+ 1521  sudo apt-get update && sudo apt-get install -y default-jdk
+ 1522  java -version
+ 1523  javac -version
+ 1524  vim s.java
+ 1525  javac s.java
+ 1526  l
+ 1527  java Simple.class
+ 1528  rm s*
+ 1529  rm S8
+ 1530  rm S*
+ 1531  vim Simple.java
+ 1532  javac S*
+ 1533  l
+ 1534  java Simple.java
+ 1535  javac Simple.java
+ 1536  l
+ 1537  java Simple.java
+ 1538  java Simple
+ 1539  cd ..
+ 1540  cd p
+ 1541  md maps
+ 1542  cd maps
+ 1543  touch index.html
+ 1544  parcel index.html
+ 1545  parcel watch index.html
+ 1546  parcel index.html
+ 1547  curl https://maps.googleapis.com/maps/api/geocode/json?&address=123%20N%20Washington%20Ave%2C%20Minneapolis%2C%20MN%2055401%2C%20USA
+ 1548  cd ..
+ 1549  cd util
+ 1550  l
+ 1551  cd scrap
+ 1552  l
+ 1553  n scrape.js
+ 1554  cd  ..
+ 1555  cd maps
+ 1556  cd ..
+ 1557  l
+ 1558  cd grids
+ 1559  l
+ 1560  grids index.html
+ 1561  npm -v
+ 1562  cd
+ 1563  dw
+ 1564  l
+ 1565  s mp3
+ 1566  l
+ 1567  s rclone
+ 1568  rclone twit0681.mp3 stef:
+ 1569  htop
+ 1570  rclone copy twit0681.mp3 stef:
+ 1571  cd ..
+ 1572  cd 
+ 1573  s mongo
+ 1574  alias
+ 1575  cd m
+ 1576  cm
+ 1577  l
+ 1578  cm
+ 1579  l
+ 1580  l
+ 1581  cd p
+ 1582  md mongo
+ 1583  cd mongo
+ 1584  npm init -y
+ 1585  exit
+ 1586  npm install mongoose
+ 1587  touch index.js
+ 1588  cd p
+ 1589  l
+ 1590  cd p
+ 1591  cd mongo
+ 1592  cm
+ 1593  l
+ 1594  mongod
+ 1595  l
+ 1596  npm install mongodb
+ 1597  cd /mnt/c
+ 1598  cd youtube
+ 1599  alias
+ 1600  y3 'https://www.youtube.com/watch?v=HKgURBN8sRY'
+ 1601  l
+ 1602  rm The*
+ 1603  cd p
+ 1604  cd ~/p
+ 1605  l
+ 1606  cd mongo
+ 1607  l
+ 1608  npm ls
+ 1609  cm
+ 1610  l
+ 1611  mongo
+ 1612  l
+ 1613  node index.js
+ 1614  cd p
+ 1615  cd mongo
+ 1616  l
+ 1617  n index.js
+ 1618  l
+ 1619  mongo
+ 1620  n data*
+ 1621  l
+ 1622  head ind*
+ 1623  n index.js
+ 1624  mong
+ 1625  n index.js
+ 1626  mongo
+ 1627  mongo test_db –eval “printjson(db.getCollectionNames())”
+ 1628  mongo test_db –eval 'printjson(db.getCollectionNames())'
+ 1629  mongo mydb –eval 'printjson(db.getCollectionNames())'
+ 1630  mongo mydb --eval "printjson(db.getCollectionNames())"
+ 1631  l
+ 1632  mongo
+ 1633  cd ~
+ 1634  l -a
+ 1635  vim .dbshell
+ 1636  cd -
+ 1637  l
+ 1638  pwd | c
+ 1639  dw
+ 1640  l
+ 1641  rm M*
+ 1642  l
+ 1643  mv MO* /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+ 1644  cd -
+ 1645  l
+ 1646  mv MO* mo.csv
+ 1647  l *.json
+ 1648  rm *.json
+ 1649  mv MO* mo.csv
+ 1650  l
+ 1651  mongoimport --db test --collection stuff --type csv mo.csv --headerline
+ 1652  mongo
+ 1653  ex
+ 1654  cat a >
+ 1655  s cat
+ 1656  cat > a
+ 1657  ex -sc '1d4|x' a
+ 1658  cat a
+ 1659  vim -help
+ 1660  vim -help 
+ 1661  vim --version
+ 1662  exit
+ 1663  tmux
+ 1664  tmux ls
+ 1665  s tmux
+ 1666  s tmux attach
+ 1667  alias
+ 1668  s tmux 
+ 1669  s tmux | grep attach
+ 1670  tmux ls
+ 1671  tmux attach 2
+ 1672  tmux attach 0
+ 1673  tmux ls
+ 1674  tmux attach 0
+ 1675  tmux a 0
+ 1676  exit
+ 1677  tmux
+ 1678  tmux ls
+ 1679  tmux a 0
+ 1680  tmux attach 
+ 1681  tmux ls
+ 1682  tmux attach 3
+ 1683  tmux a 3
+ 1684  exit
+ 1685  tmux a 
+ 1686  tmux ls
+ 1687  cd p
+ 1688  l
+ 1689  cd shakes
+ 1690  l
+ 1691  vim ub
+ 1692  du
+ 1693  curl http://umn.du > u
+ 1694  cat u
+ 1695  curl http://example.com > u
+ 1696  cat u
+ 1697  vim u
+ 1698  vn
+ 1699  tmux attach
+ 1700  logout
+ 1701  tmux ls
+ 1702  l -s
+ 1703  l -S
+ 1704  rm ub
+ 1705  l
+ 1706  tree
+ 1707  vim .vimrc
+ 1708  l
+ 1709  treee
+ 1710  jj
+ 1711  tree 
+ 1712  du
+ 1713  du | wc
+ 1714  tree | vim =
+ 1715  tree | vim -
+ 1716  cd play
+ 1717  l
+ 1718  l
+ 1719  vim p
+ 1720  l
+ 1721  cd ..
+ 1722  l
+ 1723  vim a
+ 1724  ack
+ 1725  j
+ 1726  ag
+ 1727  cd p
+ 1728  l
+ 1729  ifconfig
+ 1730  s npm | grep ls
+ 1731  npm ls -g --depth=0
+ 1732  npm outdated -g --depth=0
+ 1733  tsc -v
+ 1734  npm update -g
+ 1735  sudo npm update -g
+ 1736  s webpack
+ 1737  cd p
+ 1738  cd util
+ 1739  l
+ 1740  cd webpack
+ 1741  l
+ 1742  cd src
+ 1743  l
+ 1744  n abc.js
+ 1745  cd ..
+ 1746  webpack --config web.js
+ 1747  l
+ 1748  cd dist
+ 1749  l
+ 1750  cat b.js
+ 1751  cd ..
+ 1752  cat b.js
+ 1753  n b.js
+ 1754  cp b.js /mnt/c/all
+ 1755  cd /mnt/c/all
+ 1756  l
+ 1757  n b.js
+ 1758  cd -
+ 1759  l
+ 1760  cd src
+ 1761  l
+ 1762  n abc.js
+ 1763  cd ..
+ 1764  l
+ 1765  webpack --config web.js
+ 1766  l
+ 1767  n b
+ 1768  cd src
+ 1769  l
+ 1770  n abc
+ 1771  cd ..
+ 1772  tail h
+ 1773  h | tail
+ 1774  webpack --config web.js
+ 1775  l
+ 1776  n b
+ 1777  cd p
+ 1778  cd web*
+ 1779  l
+ 1780  cd uti*
+ 1781  l
+ 1782  cd web*
+ 1783  l
+ 1784  pwd | c
+ 1785  cd /home/steff007/p/util/webpack
+ 1786  cd src
+ 1787  l
+ 1788  n abc.js
+ 1789  cd ..
+ 1790  s webpack
+ 1791  webpack --config web.js
+ 1792  l
+ 1793  n b
+ 1794  cp b.js /mnt/c/all
+ 1795  cd /mnt/c/all
+ 1796  l
+ 1797  n b
+ 1798  n b | vim -
+ 1799  cd \
+ 1800  cd -
+ 1801  l
+ 1802  cd src
+ 1803  l
+ 1804  n abc
+ 1805  l
+ 1806  n abc
+ 1807  l
+ 1808  n abc
+ 1809  l
+ 1810  n abc
+ 1811  l
+ 1812  n abc
+ 1813  rm *.txt
+ 1814  l
+ 1815  n abc
+ 1816  l
+ 1817  rm *.txt
+ 1818  n abc
+ 1819  l
+ 1820  npm -i shelljs -g
+ 1821  sudo npm -i -g shelljs
+ 1822  s npm | grep n
+ 1823  sudo npm install -g shelljs
+ 1824  n abc
+ 1825  rm *.txt
+ 1826  n abc
+ 1827  l
+ 1828  rm *.txt
+ 1829  l
+ 1830  n abc
+ 1831  l
+ 1832  n abc
+ 1833  l
+ 1834  rm *.txt
+ 1835  n abc
+ 1836  l
+ 1837  n abc
+ 1838  l
+ 1839  cat m*
+ 1840  n abc
+ 1841  git config --global user.name
+ 1842  n abc
+ 1843  cd ..
+ 1844  l
+ 1845  vim e.js
+ 1846  l
+ 1847  vim e2.js
+ 1848  ls
+ 1849  l
+ 1850  node --experimental-modules e2.js
+ 1851  cat e2
+ 1852  htop
+ 1853  logout
+ 1854  vim e2.js
+ 1855  l
+ 1856  node --experimental-modules e2
+ 1857  vim e2.js
+ 1858  node --experimental-modules e2
+ 1859  babel
+ 1860  npx babel-node --presets env e2.js
+ 1861  npm install babel-cli --save-dev
+ 1862  npm init -y
+ 1863  npm install babel-preset-env babel-preset-stage-2 --save-dev
+ 1864  l
+ 1865  vim .babelrc
+ 1866  vim package.json
+ 1867  npm start
+ 1868  l
+ 1869  vim e2.js
+ 1870  l
+ 1871  npm start
+ 1872  sudo npm install -g babel-preset-env babel-preset-stage-2 --save-dev
+ 1873  npm install -g babel-cli --save-dev
+ 1874  sudo npm install -g babel-cli --save-dev
+ 1875  babel-node --presets env,stage-2 e2
+ 1876  cd /mnt/c/youtube
+ 1877  y4 'https://www.youtube.com/watch?v=2d7s3spWAzo&t=871s'
+ 1878  git clone https://github.com/mpj/fpjs8.git
+ 1879  l
+ 1880  tail h
+ 1881  h | tail
+ 1882  babel-node 32
+ 1883  babel-node e2
+ 1884  l
+ 1885  find .
+ 1886  l
+ 1887  mv -v fpj28 ..
+ 1888  mv -v fpjs28 ..
+ 1889  mv -v fpjs8 ..
+ 1890  l
+ 1891  cd ..
+ 1892  l
+ 1893  mv -v fpjs8 ..
+ 1894  cd .
+ 1895  cd ..
+ 1896  l
+ 1897  md prom
+ 1898  l fp*
+ 1899  l
+ 1900  l f*
+ 1901  l
+ 1902  mv -v fpjs8 ./prom
+ 1903  cd prom
+ 1904  l
+ 1905  cd ..
+ 1906  l
+ 1907  cd prom
+ 1908  l
+ 1909  cd fpjs8
+ 1910  l
+ 1911  man mv
+ 1912  npm install
+ 1913  l
+ 1914  g
+ 1915  ls g /age/
+ 1916  ls | g age
+ 1917  ls | g age/.
+ 1918  ls | g age\..
+ 1919  ls | g /age\../
+ 1920  ls | g age\.
+ 1921  ls
+ 1922  vim package.json
+ 1923  cd p
+ 1924  l
+ 1925  cd prom
+ 1926  l
+ 1927  cd fp*
+ 1928  l
+ 1929  git status
+ 1930  l -a
+ 1931  vim .gitignore
+ 1932  l
+ 1933  git status
+ 1934  git log
+ 1935  git status
+ 1936  git add .
+ 1937  git commit -m 'changed cats'
+ 1938  git status
+ 1939  exit
+ 1940  exit
+ 1941  git log
+ 1942  git diff
+ 1943  git diff > d
+ 1944  vim d
+ 1945  htop
+ 1946  npm run develop
+ 1947  htop
+ 1948  ls | vim -
+ 1949  l
+ 1950  vim d
+ 1951  vim
+ 1952  l
+ 1953  vim a
+ 1954  l -a
+ 1955  vim
+ 1956  l
+ 1957  vim f.sh
+ 1958  vim backu
+ 1959  l
+ 1960  exit
+ 1961  cd /home/steff007
+ 1962  exit
+ 1963  vim histb
+ 1964  cd p
+ 1965  l
+ 1966  cd tens
+ 1967  cd ..
+ 1968  cd tra
+ 1969  node -e 'console.log('jim')
+ 1970  '
+ 1971  node -e 'console.log("jim")'
+ 1972  ps -T h
+ 1973  node -e 'setTimeout(())={},10000};' & ps -T h $!
+ 1974  node -e 'setTimeout(())={},10000);' & ps -T h $!
+ 1975  node -e 'setTimeout(())=>{},10000);' & ps -T h $!
+ 1976  node -e 'setTimeout(()=>{},10000);' & ps -T h $!
+ 1977  l
+ 1978  cd /home/steff007/p/tra
+ 1979  l
+ 1980  n k
+ 1981  cat k
+ 1982  n k
+ 1983  alias
+ 1984  nb k
+ 1985  cat k
+ 1986  cat k | c
+ 1987  n l
+ 1988  vim -v
+ 1989  cd
+ 1990  cd .vim
+ 1991  curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+ 1992  Plug 'liuchengxu/vim-which-key'
+ 1993  curl -fLo ~/.vim/autoload/plug.vim --create-dirs     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+ 1994  l
+ 1995  l -a
+ 1996  cd a*
+ 1997  l
+ 1998  cd ..
+ 1999  vim ~/.vimrc
+ 2000  vim
+ 2001  cd /mnt/c/youtube
+ 2002  l
+ 2003  y4 'https://www.youtube.com/watch?v=mbzCe1of_Hs'
+ 2004  vim a
+ 2005  exit
+ 2006  l
+ 2007  cd mv
+ 2008  cd /mnt/c/mv
+ 2009  y4 'https://www.youtube.com/watch?v=qXS2TuX_QW4'
+ 2010  y4 'https://www.youtube.com/watch?v=v1BDJELO87o&t=117s'
+ 2011  cd
+ 2012  vim .vimrc
+ 2013  cd /mnt
+ 2014  l
+ 2015  cd /c
+ 2016  cd d
+ 2017  cd c
+ 2018  l
+ 2019  md books
+ 2020  cd books
+ 2021  l
+ 2022  y3 'https://www.youtube.com/watch?v=cKAfdBB0MVE'
+ 2023  dw
+ 2024  l
+ 2025  s mp3
+ 2026  l *mp3
+ 2027  find . -type f -regex '681'
+ 2028  l | g 6
+ 2029  l | g 681
+ 2030  l | g 681 | xargs rm
+ 2031  ls | g 681 | xargs rm
+ 2032  l *mp3
+ 2033  rclone copy *.mp3 stef:
+ 2034  l *.mp3
+ 2035  ls *.mp3
+ 2036  for i in 1 2 3 4 5; do    echo "Welcome $i times"; done
+ 2037  for i in {1..5}; do    echo "Welcome $i times"; done
+ 2038  for file in /etc/*; do
+ 2039  vim a
+ 2040  source a
+ 2041  l
+ 2042  vim a
+ 2043  vim ~\.bashrc
+ 2044  vim ~/.bashrc
+ 2045  vim ~/.vimrc
+ 2046  vim a
+ 2047  l
+ 2048  l | grep (
+ 2049  l | grep a
+ 2050  l | grep /a/
+ 2051  l | grep "a"
+ 2052  l | grep "a[nr]"
+ 2053  l | grep "a[nx]"
+ 2054  l | grep "a[vx]"
+ 2055  l | grep "\("
+ 2056  l | egrep "\("
+ 2057  ls | egrep "\("
+ 2058  ls | egrep "\(" | xargs rm
+ 2059  ls | egrep "\(" 
+ 2060  rm Jim-Steinhagen-Q-and-A (1).pdf
+ 2061  rm 'Jim-Steinhagen-Q-and-A (1).pdf'
+ 2062  vim a
+ 2063  ls | egrep "\(" 
+ 2064  l
+ 2065  find . -depth -name '* *' | while IFS= read -r f ; do mv -i "$f" "$(dirname "$f")/$(basename "$f"|tr ' ' _)" ; done
+ 2066  l
+ 2067  ls | egrep "\(" | xargs rm
+ 2068  l
+ 2069  vim a
+ 2070  source a
+ 2071  s rclone
+ 2072  vim a
+ 2073  htop
+ 2074  l
+ 2075  dw
+ 2076  l
+ 2077  ls | egrep "*.mid" 
+ 2078  ls | egrep "*.mid" | xargs rm
+ 2079  l
+ 2080  htop
+ 2081  source a
+ 2082  curl 'https://api.github.com/users/narenaryan'
+ 2083  curl 'https://api.github.com/users/wither7007'
+ 2084  cd p
+ 2085  l
+ 2086  cal
+ 2087  l
+ 2088  cd tra
+ 2089  l
+ 2090  cd ..
+ 2091  l
+ 2092  cd prom
+ 2093  l
+ 2094  cd ..
+ 2095  l
+ 2096  cd tra
+ 2097  l
+ 2098  egrep a l.js
+ 2099  egrep 3 l.js
+ 2100  egrep e l.js
+ 2101  grep e l.js
+ 2102  egrep e l.js
+ 2103  egrep 'et' l.js
+ 2104  egrep 'e[tw]' l.js
+ 2105  egrep 'e[twj]' l.js
+ 2106  egrep 'e[twj]' *.js
+ 2107  l
+ 2108  cp l.js k.js
+ 2109  egrep 'e[twj]' *.js
+ 2110  egrep 'e\(' *.js
+ 2111  egrep 'fs\.' *.js
+ 2112  egrep -r 'fs\.' *.js
+ 2113  l
+ 2114  egrep -r 'e' *.js
+ 2115  egrep -r 'e' 
+ 2116  egrep -r 'fs\.' 
+ 2117  egrep -r --exclude-dir=node_modules 'fs\.' 
+ 2118  cd ..
+ 2119  l
+ 2120  cd uti
+ 2121  cd util
+ 2122  egrep -r --exclude-dir=node_modules 'fs\.' 
+ 2123  egrep -r --exclude-dir=node_modules 'shell' 
+ 2124  l
+ 2125  cd webpack
+ 2126  l
+ 2127  cd src
+ 2128  l
+ 2129  rm *.txt
+ 2130  l
+ 2131  n abc
+ 2132  alias
+ 2133  nb abc
+ 2134  which python3
+ 2135  vim a.py
+ 2136  python3 a.py
+ 2137  vim a.py
+ 2138  python3 a.py
+ 2139  vim a.py
+ 2140  pwd
+ 2141  pwd | c
+ 2142  vim a.py
+ 2143  python3 a.py
+ 2144  vim a.py
+ 2145  python3 a.py
+ 2146  vim a.py
+ 2147  python3 a.py
+ 2148  ls
+ 2149  vim a.py
+ 2150  unname
+ 2151  uname
+ 2152  uname -a
+ 2153  which lxrun
+ 2154  ver
+ 2155  lsb_release
+ 2156  lsb_release -a
+ 2157  sudo apt list --installed
+ 2158  sudo apt list --installed | g py
+ 2159  sudo apt list --installed | egrep py
+ 2160  sudo apt list --installed | egrep py | less
+ 2161  aliax
+ 2162  alias
+ 2163  l -a
+ 2164  l -a *.v
+ 2165  l -a .v8
+ 2166  l -a .v*
+ 2167  l -a .b
+ 2168  l -a .b*
+ 2169  ls -a .b*
+ 2170  ls -a .b* | e 'ses'
+ 2171  ls -a .b* | g 'ses'
+ 2172  ls -a .b* | g 'ses' | c
+ 2173  vim .bash_aliases
+ 2174  vim .bashrc
+ 2175  l
+ 2176  alias
+ 2177  alias mn='cd /mnt/c'
+ 2178  vim .bash_aliases
+ 2179  mn
+ 2180  cd you*
+ 2181  y4 'https://www.youtube.com/watch?v=FVqzKAUsM68'
+ 2182  cd /all
+ 2183  cd
+ 2184  l
+ 2185  cd pl*
+ 2186  vim HelloWorld.java
+ 2187  l
+ 2188  javac H*
+ 2189  l
+ 2190  java *.class
+ 2191  vim HelloWorld.java
+ 2192  l
+ 2193  javac HelloWorld.java
+ 2194  l
+ 2195  java HelloWorld.class
+ 2196  cd
+ 2197  cd p
+ 2198  cd tra
+ 2199  l
+ 2200  n k.js
+ 2201  cm
+ 2202  alias
+ 2203  mn
+ 2204  cd yo*
+ 2205  y4 'https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=30s'
+ 2206  l
+ 2207  cd ../mv
+ 2208  y4 'https://www.youtube.com/watch?v=L9BD6J2fcCs'
+ 2209  y3 'https://www.youtube.com/watch?v=pMc8jcvTZdQ'
+ 2210  y3 "https://www.youtube.com/watch?v=pMc8jcvTZdQ"
+ 2211  alias
+ 2212  sudo -H pip install --upgrade youtube-dl
+ 2213  sudo pip install --upgrade pip
+ 2214  pip install --upgrade pip
+ 2215  y3 "https://www.youtube.com/watch?v=pMc8jcvTZdQ"
+ 2216  youtube-dl -F
+ 2217  youtube-dl -F "https://www.youtube.com/watch?v=pMc8jcvTZdQ"
+ 2218  alias
+ 2219  youtube-dl -F "https://www.youtube.com/watch?v=pMc8jcvTZdQ" | e mp3
+ 2220  youtube-dl -F "https://www.youtube.com/watch?v=pMc8jcvTZdQ" | e mp4
+ 2221  l
+ 2222  dw
+ 2223  l
+ 2224  s rcl
+ 2225  rclone copy twig0473.mp3 stef;
+ 2226  htop
+ 2227  rclone copy twig0473.mp3 stef:
+ 2228  c
+ 2229  alis
+ 2230  alias
+ 2231  mn
+ 2232  cd mv
+ 2233  y4 'https://www.youtube.com/watch?v=fiYCwKg_QZA'
+ 2234  c
+ 2235  m
+ 2236  alias
+ 2237  mn
+ 2238  cd youtube
+ 2239  y3 'https://www.youtube.com/watch?v=0qJjawcMJaQ'
+ 2240  y4 'https://www.youtube.com/watch?v=PoRJizFvM7s&t=608s'
+ 2241  dirs -l -p -d
+ 2242  dirs -l -p 
+ 2243  dirs
+ 2244  l
+ 2245  dirs -v
+ 2246  pushd .
+ 2247  dirs -v
+ 2248  dw
+ 2249  popd
+ 2250  dirs -v
+ 2251  y4 'https://www.youtube.com/watch?v=HZv8YHYUHTU'
+ 2252  htop
+ 2253  cd ~/p
+ 2254  md home
+ 2255  cd home
+ 2256  touch index.htm style.css
+ 2257  l
+ 2258  touch ./css/style.css
+ 2259  md css
+ 2260  touch ./css/style.css
+ 2261  l
+ 2262  rm *.css
+ 2263  l
+ 2264  pushd
+ 2265  pwd | c
+ 2266  dw
+ 2267  l
+ 2268  mv pex* /home/steff007/p/home
+ 2269  cd -
+ 2270  l
+ 2271  mv pex* bg.jpeg
+ 2272  l
+ 2273  md img
+ 2274  mv bg* ./img
+ 2275  l
+ 2276  mv img imgs
+ 2277  l
+ 2278  cd imgs
+ 2279  l
+ 2280  cd ..
+ 2281  l
+ 2282  l >
+ 2283  l > a
+ 2284  vim a
+ 2285  vn
+ 2286  l
+ 2287  cd im*
+ 2288  pwd | c
+ 2289  dw
+ 2290  l
+ 2291  s find
+ 2292  find -maxdepth 0 '*.jpeg'
+ 2293  find -maxdepth 0 -name '*.jpeg'
+ 2294  l
+ 2295  find -maxdepth 0 -name '*.jpg'
+ 2296  find -maxdepth a -name '*.jpg'
+ 2297  find -maxdepth 1 -name '*.jpg'
+ 2298  find -maxdepth 1 -name '*.jpg' | grep (
+ 2299  find -maxdepth 1 -name '*.jpg' | grep '('
+ 2300  s find
+ 2301  find -maxdepth 1 -name '*.jpg' | grep '(' -exce rm {}
+ 2302  find -maxdepth 1 -name '*.jpg' | grep '(' -exce rm {};
+ 2303  l
+ 2304  s exec
+ 2305  find -maxdepth 1 -name '*.jpg' | grep '(' -exce rm {} \;
+ 2306  find -maxdepth 1 -name '*.jpg' | grep 
+ 2307  find -maxdepth 1 -name '*.jpg' | grep '(' 
+ 2308  find -maxdepth 1 -name '*.jpg' | grep '(' -exec rm {} \;
+ 2309  find -maxdepth 1 -name '*.jpg' | grep '(' | -exec rm {} \;
+ 2310  find -maxdepth 1 -name 'a'
+ 2311  l
+ 2312  find -maxdepth 0 -name 'a'
+ 2313  find -maxdepth 0 -name 'A*'
+ 2314  find -maxdepth 1 -name 'A*'
+ 2315  find -maxdepth 1 -name '*(*'
+ 2316  find -maxdepth 1 -name '*(*' -delete
+ 2317  l
+ 2318  ls a*.jpg
+ 2319  mv a*.jpg back.jpg
+ 2320  /home/steff007/p/home/imgs
+ 2321  mv a*.jpg back.jpg /home/steff007/p/home/imgs
+ 2322  mv a*.jpg back.jpg 
+ 2323  l
+ 2324  cd /home/steff007/p/home/imgs
+ 2325  l
+ 2326  alias
+ 2327  mn
+ 2328  cd you*
+ 2329  y4 'https://www.youtube.com/watch?v=rAy_3SIqT-E&t=1518s'
+ 2330  cmd.exe
+ 2331  htop
+ 2332  hier
+ 2333  tmux
+ 2334  cd p
+ 2335  cd pub
+ 2336  cd pup
+ 2337  l
+ 2338  cmd
+ 2339  cmd.exe
+ 2340  cat dim.js
+ 2341  powershell.exe
+ 2342  dir
+ 2343  l
+ 2344  cd ..
+ 2345  md ts
+ 2346  cd ts
+ 2347  l
+ 2348  tsc types.ts
+ 2349  l
+ 2350  tsc types.ts
+ 2351  l
+ 2352  cd p
+ 2353  l
+ 2354  cd ts
+ 2355  l
+ 2356  htop
+ 2357  tsc types.ts -w
+ 2358  l
+ 2359  npm init -y
+ 2360  l
+ 2361  tsc types.ts 
+ 2362  npm i fs
+ 2363  tsc types.ts 
+ 2364  l
+ 2365  tsc -v
+ 2366  l
+ 2367  vim tsconfig.json
+ 2368  l
+ 2369  cat tsc*
+ 2370  vim tsconfig.json
+ 2371  cat tsc*
+ 2372  tsc types.ts 
+ 2373  l
+ 2374  cd no*
+ 2375  l
+ 2376  cd fs
+ 2377  l
+ 2378  cd ..
+ 2379  tsc types.ts 
+ 2380  l
+ 2381  n types.js
+ 2382  l
+ 2383  tsc types.ts 
+ 2384  l
+ 2385  n types.js
+ 2386  tsc types.ts 
+ 2387  l
+ 2388  tsc types.ts 
+ 2389  l
+ 2390  n types.js
+ 2391  l
+ 2392  tsc types.ts 
+ 2393  n types.js
+ 2394  npm i axios
+ 2395  tsc types.ts 
+ 2396  l
+ 2397  cd nod*
+ 2398  l
+ 2399  cd fs
+ 2400  l
+ 2401  npm install @types/node --save-dev
+ 2402  tsc types.ts 
+ 2403  cd ..
+ 2404  cd ll
+ 2405  cd ..
+ 2406  l
+ 2407  tsc types.ts 
+ 2408  l
+ 2409  n types.js
+ 2410  find -name fs.*
+ 2411  find -name 'fs.*'
+ 2412  find 
+ 2413  find -name "*.js"
+ 2414  tsc types.ts 
+ 2415  n types.js
+ 2416  tsc types.ts 
+ 2417  n types.js
+ 2418  tsc types.ts 
+ 2419  n types.js
+ 2420  l
+ 2421  vim data
+ 2422  tsc types.ts 
+ 2423  n types.js
+ 2424  tsc types.ts 
+ 2425  n types.js
+ 2426  tsc types.ts 
+ 2427  find -name "fs.*"
+ 2428  find -name "f*"
+ 2429  cd ./node_modules/fs
+ 2430  l
+ 2431  l -a
+ 2432  vim RE*
+ 2433  cm
+ 2434  alias
+ 2435  mn
+ 2436  md stats
+ 2437  cd stats
+ 2438  y4 'https://www.youtube.com/watch?v=HvDqbzu0i0E'
+ 2439  y4 'https://www.youtube.com/watch?v=hlM7zdf7zwU'
+ 2440  ipython
+ 2441  cd ..
+ 2442  cd you*
+ 2443  l
+ 2444  l *.mp3
+ 2445  s rcop
+ 2446  s steff
+ 2447  s rcop
+ 2448  history
+ 2449  history > h
+ 2450  vim h
+ 2451  s rclone
+ 2452  l
+ 2453  l *.mp3
+ 2454  mv *.mp3 lin.mp3
+ 2455  l *.mp3
+ 2456  rclone copy *.mp3 stef;
+ 2457  rclone copy *.mp3 stef:
+ 2458  mc
+ 2459  alias
+ 2460  mn
+ 2461  cd yo*
+ 2462  y4 'https://www.youtube.com/watch?v=PFmuCDHHpwk'
+ 2463  cd
+ 2464  cd p
+ 2465  which tsc
+ 2466  cd p
+ 2467  cd ts
+ 2468  l
+ 2469  touch tm.ts
+ 2470  txc tm.ts
+ 2471  npx create-react-app my-app --scripts-version=react-scripts-ts
+ 2472  tsc tm.ts
+ 2473  l
+ 2474  tsc tm.ts
+ 2475  tsc tm.ts -w
+ 2476  cd my-app
+ 2477  l
+ 2478  cd src
+ 2479  l
+ 2480  tsc App.tsx
+ 2481  cd ..
+ 2482  pwd
+ 2483  l
+ 2484  alias
+ 2485  apt install mono-mcs
+ 2486  sudo apt install mono-mcs
+ 2487  cm
+ 2488  mn
+ 2489  cd all
+ 2490  l
+ 2491  which mono
+ 2492  l
+ 2493  mono giraffe.exe
+ 2494  cd -
+ 2495  cd 
+ 2496  cd p
+ 2497  mn
+ 2498  cd you*
+ 2499  vn
+ 2500  b='C:\Users\jimst\source\repos\giraffe\giraffe\bin\Debug\'
+ 2501  echo $b
+ 2502  set
+ 2503  set | vim -
+ 2504  echo $b
+ 2505  echo $b |  sed 's/\\/\//g'
+ 2506  cd C:/Users/jimst/source/repos/giraffe/giraffe/bin/Debug/
+ 2507  mn
+ 2508  cd C:/Users/jimst/source/repos/giraffe/giraffe/bin/Debug/
+ 2509  cd /Users/jimst/source/repos/giraffe/giraffe/bin/Debug/
+ 2510  cd Users/jimst/source/repos/giraffe/giraffe/bin/Debug/
+ 2511  l
+ 2512  rm file.txt
+ 2513  l
+ 2514  mono giraffe
+ 2515  mono giraffe.exe
+ 2516  l
+ 2517  cat file.txt
+ 2518  vn
+ 2519  echo $b
+ 2520  echo $b | tr '\\' '/'
+ 2521  vn
+ 2522  y4 'https://www.youtube.com/watch?v=GhQdlIFylQ8'
+ 2523  exit
+ 2524  l
+ 2525  l
+ 2526  mono giraffe.exe
+ 2527  mn
+ 2528  md music
+ 2529  cd music 
+ 2530  y3 'https://www.youtube.com/watch?v=8htJVyavMvo'
+ 2531  cd ../youtube
+ 2532  l
+ 2533  mv Goo* ../music
+ 2534  l
+ 2535  cd ../music
+ 2536  l
+ 2537  y4 'https://www.youtube.com/watch?v=2kotK9FNEYU'
+ 2538  y4 'https://www.youtube.com/watch?v=Rhv8iOY08TY'
+ 2539  nproc
+ 2540  b=C:\Users\jimst\source\repos\Project1\Project1\C:\Users\jimst\source\repos\Project1\Project1b=C:\Users\jimst\source\repos\Project1\Project1\C:\Users\jimst\source\repos\Project1\Project1
+ 2541  echo $b
+ 2542  b=C:\Users\jimst\source\repos\Project1\Project1
+ 2543  vn
+ 2544  tr '\\' '/' | $b
+ 2545  echo $b | tr '\\' '/'
+ 2546  echo $b
+ 2547  b=C:\Users\jimst\source\repos\Project1\Project1
+ 2548  echo $b | tr '\\' '/'
+ 2549  echo $b
+ 2550  b=C:\Users\jimst\source\repos\Project1\Project1
+ 2551  echo $b
+ 2552  b='C:\Users\jimst\source\repos\Project1\Project1'
+ 2553  echo $b
+ 2554  echo $b | tr '\\' '/'
+ 2555  echo $b | tr '\\' '/' > n
+ 2556  vim n
+ 2557  l
+ 2558  source n
+ 2559  vim n
+ 2560  cd /mnt/C/Users/jimst/source/repos/Project1/Project1
+ 2561  cd /mnt/C/Users/jimst/source/repos/Project1/
+ 2562  alias
+ 2563  vim n
+ 2564  source n
+ 2565  l
+ 2566  pwd
+ 2567  find 
+ 2568  cd ..
+ 2569  find 
+ 2570  cd Debug
+ 2571  dir
+ 2572  cmd
+ 2573  s cmd
+ 2574  cmd.exe
+ 2575  dir
+ 2576  l
+ 2577  cmd.exe
+ 2578  g++
+ 2579  ls
+ 2580  l
+ 2581  cd ..
+ 2582  l
+ 2583  cd Project1
+ 2584  l
+ 2585  g++ Source.cpp
+ 2586  l
+ 2587  cat a.out
+ 2588  tmux
+ 2589  p='C:\Windows\SysWOW64\'
+ 2590  echo $p + k
+ 2591  echo $p + 'k'
+ 2592  echo $p k
+ 2593  echo $p\k
+ 2594  echo $p\k | sed -i -e 's/o/asd/g'
+ 2595  ls | sed -i -e 's/few/asd/g
+ 2596  ls | sed -i -e 's/few/asd/g'
+ 2597  ls | sed -e 's/few/asd/g'
+ 2598  echo $p\k | sed  -e 's/o/asd/g'
+ 2599  echo $p\k | sed  -e 's/C/c/g'
+ 2600  echo $p\k | sed  -e 's/C//mnt\/c/g'
+ 2601  echo $p\k | sed  -e 's/C/\/mnt\/c/g'
+ 2602  echo $p\k | sed  -e 's/C:/\/mnt\/c/g'
+ 2603  s tr
+ 2604  echo $p\k | sed  -e 's/C:/\/mnt\/c/g' | tr '\\' '/'
+ 2605  echo $p | sed  -e 's/C:/\/mnt\/c/g' | tr '\\' '/'
+ 2606  cd /mnt/c/Windows/SysWOW64/
+ 2607  l
+ 2608  cd
+ 2609  vim a
+ 2610  source a
+ 2611  factorial
+ 2612  factorial(3)
+ 2613  vim a
+ 2614  source a
+ 2615  l
+ 2616  mv a a.sh
+ 2617  man chmod
+ 2618  man chmod +x a.sh
+ 2619  chmod +x a.sh
+ 2620  ./a.sh
+ 2621  cd /usr/local/bin
+ 2622  l
+ 2623  faker
+ 2624  l
+ 2625  cd -
+ 2626  l
+ 2627  mv a.sh /usr/local/bin
+ 2628  sudo mv a.sh /usr/local/bin
+ 2629  a.sh
+ 2630  cmd.exe
+ 2631  powershell.exe
+ 2632  cd p
+ 2633  powershell.exe
+ 2634  fg
+ 2635  exit
+ 2636  alias
+ 2637  alias pow='powershell.exe'
+ 2638  l -a | g bas
+ 2639  vim bash_a*
+ 2640  vim .bash_a*
+ 2641  pow
+ 2642  l
+ 2643  pow
+ 2644  htop
+ 2645  cd p
+ 2646  pow
+ 2647  vim g
+ 2648  pow
+ 2649  vim k
+ 2650  sc
+ 2651  htop
+ 2652  tmux ls
+ 2653  sudo apt install sc
+ 2654  ps
+ 2655  sc
+ 2656  sc --version
+ 2657  sc -version
+ 2658  sc -v
+ 2659  cd p
+ 2660  l
+ 2661  sc k
+ 2662  sc g
+ 2663  tmux
+ 2664  pow
+ 2665  notepad.exe
+ 2666  pow
+ 2667  mn
+ 2668  md and
+ 2669  cd and
+ 2670  s twit
+ 2671  s curl
+ 2672  cd
+ 2673  l
+ 2674  l -a | g bash
+ 2675  l -a | g his
+ 2676  ls -a | g his
+ 2677  vim .bash_history
+ 2678  cd p
+ 2679  cd util
+ 2680  l
+ 2681  cd hist
+ 2682  l
+ 2683  vim hist.js
+ 2684  l
+ 2685  ls
+ 2686  ls > l
+ 2687  cat l
+ 2688  l
+ 2689  n hist.js
+ 2690  vim hist.js
+ 2691  vim l
+ 2692  n hist.js
+ 2693  l
+ 2694  vim l
+ 2695  n hist.js
+ 2696  h
+ 2697  h > l

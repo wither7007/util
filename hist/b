@@ -1,0 +1,526 @@
+  }
+  },
+'
+0<f
+1
+10
+100
+1,000
+10,000
+1 2 3 4 5 6 7 8 9 10
+2>f
+2pac.txt
+ack
+ag
+alias
+alias 
+alias c='clip.exe'
+alias cm='/mnt/c'
+alias cw='cd /mnt/c/users/jimst/Downloads'
+alias dw='cd /mnt/c/users/jimst/Downloads'
+alias md='mkdir'
+alias mn='cd /mnt/c'
+alias n="node"
+alias pow='powershell.exe'
+alias y4='youtube-dl -f 18 '
+alias y4='youtube-dl -x --audio-format mp4 '
+alias ym4="youtube-dl -x --audio-format mp4"
+alias ym='youtube-dl -f 18'
+aliax
+alis
+app.js
+apt-get
+apt install mono-mcs
+a=`pwd | sed 's/.*/"&"/' `
+asdf
+asdf 2> f
+./a.sh
+a.sh
+at a | nl
+  'audioConfig':{
+    'audioEncoding':'MP3'
+awk '$0 { print ++nr, $0; next } { print }' a
+awk aw v
+awk '/de/{print}' v
+awk '/^d/{print}' v
+awk '/d/{print}' v
+awk '/^drw/{print}' v
+awk '/drw/{print}' v
+awk '/d.*x/{print}' v
+awk -f aw u
+awk -f aw v
+awk -f j
+awk '/js/{print}' v
+awk '/rw/{print}' v
+awk '/^s/{print}' v
+babel
+babel-node 32
+babel-node e2
+babel-node --presets env,stage-2 e2
+b='C:\Users\jimst\source\repos\giraffe\giraffe\bin\Debug\'
+b='C:\Users\jimst\source\repos\Project1\Project1'
+b=C:\Users\jimst\source\repos\Project1\Project1
+b=C:\Users\jimst\source\repos\Project1\Project1\C:\Users\jimst\source\repos\Project1\Project1b=C:\Users\jimst\source\repos\Project1\Project1\C:\Users\jimst\source\repos\Project1\Project1
+bind -l
+bind -l | vim -
+bind -p
+bind -p | less
+b.js
+bundle2.js
+c
+cal
+chmod +rwx data
+chmod +x a.sh
+cm
+cmd
+cmd.exe
+cp -a /home/steff007/p/tra/git/dist/img /home/steff007/p/tra/dist
+cp backu .bash_history
+cp .bash_h* histb
+cp .bash_history hisback
+cp b.js /mnt/c/all
+cp /dev/null 'a file with spaces in the name'
+cp /home/steff007/p/tra/git/dist/img /home/steff007/p/tra/dist
+cp l.js k.js
+cp -R -n mongodb-linux-x86_64-3.6.5/ mongodb
+cp u ub
+cp v.json ..
+cp x.json /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+curl -a https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html | html2text | sed '/^\s*$/d'
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -H "Authorization: Bearer "$(gcloud auth application-default print-access-token) -H "Content-Type: application/json; charset=utf-8" --data "{
+curl "http://api.github.com/users"
+curl http://api.github.com/users
+curl http://example.com > u
+curl 'https://api.github.com/users/narenaryan'
+curl 'https://api.github.com/users/wither7007'
+curl https://maps.googleapis.com/maps/api/geocode/json?&address=123%20N%20Washington%20Ave%2C%20Minneapolis%2C%20MN%2055401%2C%20USA
+curl https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_gemeenten |
+curl https://old.reddit.com/top/
+curl https://www.mnlottery.com/games/lotto_games/lotto_results/
+curl https://www.twincities.com/2018/08/13/21-year-old-killed-in-st-paul-shooting-remembered-as-devoted-dad/
+curl http://umn.du > u
+curl http://www.gutenberg.org/files/1524/1524-0.txt
+curl http://www.gutenberg.org/files/1524/1524-0.txt | wc
+curl http://www.startribune.com/weather/
+curl http://www.startribune.com/weather/ | html2text
+curl http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | vim -
+curl http://www.startribune.com/weather/ | html2text | vim -
+curl http://www.twincities.com
+curl http://www.umn.edu
+curl -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36" https://old.reddit.com/top/
+curl -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36" http://stackoverflow.com/questions/28760694/how-to-use-curl-to-get-a-get-request-exactly-same-as-using-chrome
+curl -Lks http://bit.do/cfg-ini
+curl -Lks http://bit.do/cfg-ini | vim -
+curl -O https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.6.5.tgz
+curl -s https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html | html2text | sed '/^\s*$/d'
+curl -s https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html | html2text | sed '/^\s*$/d' | vim -
+curl -s http://www.gutenberg.org/files/1524/1524-0.txt > h
+curl -s http://www.gutenberg.org/files/1524/1524-0.txt | wc
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/ [location-val/,$!d' | vim -
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/[location-val/,$!d' | vim -
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/location-val/,$!d' | vim -
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/Minneapolis/,$!d' | vim -
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/Saturday/,$!d' 
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/Saturday/,$!d' | vim -
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | vim -
+cw
+date
+del
+df
+df -h
+diff --git a/scrap/scrape.js b/scrap/scrape.js
+dir
+dir -a
+dirs
+dirs -l -p 
+dirs -l -p -d
+dirs -v
+dos2unix
+dpkg -l
+dpkg -l > l
+dpkg -l | vim -
+du
+du -ah | sort -h
+du -ah | sort -h #files by size
+du -ah | sort -h > k
+du --d=0
+du -d=0
+du -h
+du -h --max-depth=0
+du --max-depth=0
+du --total
+du | wc
+dw
+egrep 3 l.js
+egrep a l.js
+egrep 'e\(' *.js
+egrep e l.js
+egrep 'et' l.js
+egrep 'e[twj]' *.js
+egrep 'e[twj]' l.js
+egrep 'e[tw]' l.js
+egrep 'fs\.' *.js
+egrep -r 'e' 
+egrep -r 'e' *.js
+egrep -r --exclude-dir=node_modules 'fs\.' 
+egrep -r --exclude-dir=node_modules 'shell' 
+egrep -r 'fs\.' 
+egrep -r 'fs\.' *.js
+env
+env | grep PAT
+eslint app.js
+eslint --init
+ex
+exit
+exort u='https://old.reddit.com/top/'
+export EDITOR='program'
+export EDITOR='vim'
+export PATH=/home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+export PATH=/home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin:$PATH
+export u="http://localhost:3000/"
+export u='https://example.com'
+export u='https://old.reddit.com/top/'
+ex -sc '1d4|x' a
+factorial
+factorial(3)
+faker
+fg
+./first.sh
+for file in /etc/*; do
+for i in {1..100}; do date; done
+for i in {1..100};do echo $1;done;
+for i in {1..100}; do echo $i; done
+for i in {1..100};do echo $i;done;
+for i in {1..100}; echo $i; done
+for i in {1..100};echo $i;done
+for i in 1 2 3 4 5; do    echo "Welcome $i times"; done
+for i in {1..25}; do cat u>>ub; done
+for i in {1..5}; do cat u>>ub; done
+for i in {1..5}; do echo $i; done
+for i in {1..5}; do    echo "Welcome $i times"; done
+for i in {1..5}; echo i
+for i in {ls};do echo $i;done;
+./f.sh
+g
+g++
+gcc -o p p.c
+grep a *
+grep a files
+grep a reg*
+grep -C 3 -n youtube l
+grep e l.js
+grep -i -a -B100 -A100 'xterm' /dev/sda1
+grep -n "THE " a
+grep -n "THE T" a
+grep -n "THE TRA " a
+grep -n youtube l
+grep reg *
+grep -r shebang *
+grep shebang *
+grep whic *
+grep youtube l
+grids index.html
+g++ Source.cpp
+head 20 v.json > vs.json
+head ind*
+head -n 100 v.json > vs.json
+head -n 20 s
+head -n 20 v.json > vs.json
+head -n 5 s
+head -n 8 s
+head -n 8 s > t
+head ub | awk '{print NR, $0}'
+head * | vim -
+h | head
+hier
+history
+history -a
+history | cut -c 8- | sort | uniq
+history | cut -c 8- | sort | uniq > b
+history | cut -c 8- | sort | uniq > .bash_history
+history | cut -c 8- | sort | uniq | wc
+history > h
+n abc
+n abc.js
+    'name':'en-GB-Standard-A',
+nativefier "http://medium.com"
+n b
+nb abc
+nb fun
+nb fun.js
+nb hist.js
+n b.js
+nb k
+nb r
+nb scrape.js
+n b | vim -
+n cf
+n data*
+ndb r.js
+n fun.js
+n hist.js
+n hist.js > a
+n hist.js | vim -
+n index.js
+n k
+n k.js
+n l
+nl a
+nl s
+nl t
+nl u
+nl v.json
+nl v.json | sed -n '/def/p'
+nl v.json | sed -n '/def/p' | wc
+nl v.json | sed -n p
+nl v.json | sed -n p /vice/
+nl v.json | sed -n p '/vice/'
+nl v.json | sed -n '/\s+vice/p'
+nl v.json | sed -n '/\svice/p'
+nl v.json | sed -n '/vice/p'
+nl v.json | sed p
+n mon
+notepad.exe
+nproc
+npx babel-node --presets env e2.js
+npx create-react-app my-app --scripts-version=react-scripts-ts
+n r
+n r.js
+n rl
+n scrape.js
+n site.js
+nslookup https://www.washingtonpost.com/
+nslookup www.google.com
+n ./src/abc
+n types.js
+./p
+parcel index.html
+parcel watch index.html
+p='C:\Windows\SysWOW64\'
+ping 
+ping 192.168.1.1
+ping 192.168.1.30
+ping 198.105.254.64
+ping https://www.washingtonpost.com/
+ping www.google.com
+pip install --upgrade pip
+Plug 'liuchengxu/vim-which-key'
+popd
+pow
+powershell.exe
+printenv
+printf "jim"
+printf "jim\n"
+ps
+ps -aux
+ps -T h
+pushd
+pushd .
+pwd
+pwd | awk '{print """$0"""}'
+pwd | awk '{print "$0"}'
+pwd | awk '{print \"$0\"}'
+pwd c
+pwd | c
+pwd | clip
+pwd | clip.exe
+pwd | sed 's/.*/"&"/' 
+python
+python3 a.py
+q
+rclone copy twit0681.mp3 stef:
+rclone ls
+rclone lsd remote
+rclone lsd remote:
+rclone lsd stef:
+rclone ls remote
+rclone ls stef:
+rclone twit0681.mp3 stef:
+rcp
+-rwxrwxrwx 1 steff007 steff007  16K Jun 28 23:59 package-lock.json
+s
+s 
+s #
+s alias
+s [a-z]
+s bash
+sc
+s cat
+sc g
+sc k
+s clip
+s cmd
+s color
+screen
+script tes
+s curl
+sc -v
+sc -version
+sc --version
+s dot
+s du
+set
+set | vim -
+s exec
+s export
+s find
+s git
+s grep
+s h
+s his
+s hist
+s insp
+s inspect
+s j.js
+s j.sj
+s mnt
+s mon
+s mong
+s mongo
+s mongodb
+s mp3
+s npm
+s npm | grep ls
+s npm | grep n
+source a
+source .bash_aliases
+source d
+source f.sh
+source n
+source s
+s pkg
+s proc
+s pwd
+s rcl
+s rclone
+s rcop
+s rcopy
+s rsync
+s s
+    'ssmlGender':'FEMALE'
+s steff
+s tmux
+s tmux 
+s tmux attach
+s tmux | grep attach
+s tr
+strings -n 1 < /dev/urandom | tr -d '[:space:]' | head -c15
+s twit
+s uniq
+s webp*
+s webpack
+s you
+s yout
+s youtu
+s youtube
+s youtube | tail
+tail h
+tar -zxvf mon*
+    'text':'I\'ve added the event to your calendar.'
+tmux
+tmux a 
+tmux a 0
+tmux a 1
+tmux a 2
+tmux a 3
+tmux a -t 0
+tmux attach
+tmux attach 
+tmux attach 0
+tmux attach 2
+tmux attach 3
+tmux a -t windows
+tmux detach
+tmux -detach
+tmux kill-server
+tmux ls
+tmux -ls
+tmux new-window -c "$PWD"
+top
+total 16K
+touch a
+touch app.js
+touch _config.scss
+touch ./css/style.css
+touch fun.js
+touch index.html
+touch index.htm style.css
+touch index.js
+touch main.js
+touch _menu.scss
+touch style.css
+touch sw.js
+touch tm.ts
+tr '\\' '/' | $b
+tree
+tree 
+treee
+tree | vim =
+tree | vim -
+tsc App.tsx
+tsc tm.ts
+tsc tm.ts -w
+tsc types.ts
+tsc types.ts 
+tsc types.ts -w
+tsc -v
+txc tm.ts
+uname
+uname -a
+unname
+ver
+vi ~/.inputrc
+vi ~/.vimrc
+v.json
+v.json'
+vn
+  'voice':{
+webpack --config web.js
+webpack --config web.js > output.log 2>&1 &
+webpack --web.js
+which lxrun
+which mongodb
+which mono
+which python3
+which tsc
+x
+x > /dev/null 2>&1
+xterm
+xterm ls
+yarn
+ym4 "https://www.youtube.com/watch?v=gcx-3qi7t7c"
+ym "https://www.youtube.com/watch?v=Fjx_OvreKG4&t=277s"
+youtube-dl -F
+ youtube-dl -f 18 'https://www.youtube.com/watch?v=1DMolJ2FrNY&t=102s'
+youtube-dl -f 18  "https://www.youtube.com/watch?v=46Q4T1aCjAM"
+youtube-dl -f 18 "https://www.youtube.com/watch?v=9_2DiE0FZKQ"
+youtube-dl -f 18 "https://www.youtube.com/watch?v=FYLOvE1NCTA"
+youtube-dl -f 18 https://www.youtube.com/watch?v=FYLOvE1NCTA
+youtube-dl -f 18 "https://www.youtube.com/watch?v=gcx-3qi7t7c"
+youtube-dl -f 18 "https://www.youtube.com/watch?v=RFh-C6upvh8"
+youtube-dl -f 18 "https://www.youtube.com/watch?v=xc7nvwngjxU"
+youtube-dl -f 18 "ttps://www.youtube.com/watch?v=9_2DiE0FZKQ"
+youtube-dl -F "https://www.youtube.com/watch?v=_J9NpHKrKMw"
+youtube-dl -F "https://www.youtube.com/watch?v=pMc8jcvTZdQ"
+youtube-dl -F "https://www.youtube.com/watch?v=pMc8jcvTZdQ" | e mp3
+youtube-dl -F "https://www.youtube.com/watch?v=pMc8jcvTZdQ" | e mp4
+youtube-dl -F https://www.youtube.com/watch?v=zTzoDvGig7M
+youtube-dl https://www.youtube.com/watch?v=FYLOvE1NCTA
+youtube-dl https://www.youtube.com/watch?v=Gdq-n2SbuZo
+youtube-dl https://www.youtube.com/watch?v=Rg4y-xf46Do&list=PLhHJAtfNDCe7y7bFG1MWCr2I6ygK0kowK&index=259
+youtube-dl https://www.youtube.com/watch?v=TVXcNjeYxMk&index=57&list=PLhHJAtfNDCe7y7bFG1MWCr2I6ygK0kowK
+youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=1lWJXDG2i0A"
+youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=cinoGhY5CeI"
+youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=dMCbycerRVY"
+youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=ED5s1-Fe9FA"
+youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=H_a46WJ1viA"
+youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=Id_UYLPSn6U"
+youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=PTMMS88gi6c"
+youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=TkL_IevacnU"
+youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=w26c7NSdPCw"
+youtube-dl -x --audio-format mp3 "https://www.youtube.com/watch?v=WSuVCyT63II"
+youtube-dl -x --audio-format mp3 https://www.youtube.com/watch?v=zTzoDvGig7M
+youtube-dl -x --audio-format mp3 "youtube-dl -x --audio-format mp3"
+youtube-dl -x --audio-format mp4 "https://www.youtube.com/watch?v=46Q4T1aCjAM"

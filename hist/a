@@ -1,0 +1,1489 @@
+"https://www.youtube.com/watch?v=H_a46WJ1viA"
+'
+'audioConfig':{
+'audioEncoding':'MP3'
+'input':{
+'languageCode':'en-gb',
+'name':'en-GB-Standard-A',
+'ssmlGender':'FEMALE'
+'text':'I\'ve added the event to your calendar.'
+'voice':{
+-rwxrwxrwxsteffsteff16K Jun23:package-lock.json
+./a.sh
+./f.sh
+./first.sh
+./hub
+./hub create -d hubtest
+./p
+/home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+/home/steff007/p/fu
+/home/steff007/p/her/heroku
+/home/steff007/p/home/imgs
+/home/steff007/p/shakes
+/home/steff007/p/tra
+/home/steff007/p/tra/git/dist
+/home/steff007/p/util/scrap
+/home/steff007/p/util/webpack
+0<f
+1,10,2>f
+2pac.txt
+BBBBBB
+BBBBBBBBBB
+L
+Plug 'liuchengxu/vim-which-key'
+a.sh
+a=`pwd | sed 's/.*/"&"/' `
+ack
+ag
+alias
+alias c='clip.exe'
+alias cm='/mnt/c'
+alias cw='cd /mnt/c/users/jimst/Downloads'
+alias dw='cd /mnt/c/users/jimst/Downloads'
+alias md='mkdir'
+alias mn='cd /mnt/c'
+alias n="node"
+alias pow='powershell.exe'
+alias y4='youtube-dl -f'
+alias y4='youtube-dl -x --audio-format mp'
+alias ym4="youtube-dl -x --audio-format mp4"
+alias ym='youtube-dl -f 18'
+aliax
+alis
+app.js
+apt install mono-mcs
+apt-get
+asdf
+asdf 2> f
+at a | nl
+awk '${ print ++nr, $0; next } { print }' a
+awk '/^d/{print}' v
+awk '/^drw/{print}' v
+awk '/^s/{print}' v
+awk '/d.*x/{print}' v
+awk '/d/{print}' v
+awk '/de/{print}' v
+awk '/drw/{print}' v
+awk '/js/{print}' v
+awk '/rw/{print}' v
+awk -f aw u
+awk -f aw v
+awk -f j
+awk aw v
+b.js
+b='C:\Users\jimst\source\repos\Project1\Project1'
+b='C:\Users\jimst\source\repos\giraffe\giraffe\bin\Debug\'
+b=C:\Users\jimst\source\repos\Project1\Project1\C:\Users\jimst\source\repos\Project1\Project1b=C:\Users\jimst\source\repos\Project1\Project1\C:\Users\jimst\source\repos\Project1\Projectecho $b
+b=C:\Users\jimst\source\repos\Project1\Projectecho $b
+b=C:\Users\jimst\source\repos\Project1\Projectecho $b | tr '\\' '/'
+b=C:\Users\jimst\source\repos\Project1\Projectvn
+babel-node --presets env,stage-ecd /mnt/c/youtube
+babel-nodebabel-node el
+bind -l
+bind -l | vim -
+bind -p
+bind -p | less
+bundle2.js
+c
+cal
+cat .tfind ".*"
+cat > README.md
+cat > a
+cat > a.t
+cat > b.t
+cat > t
+cat a
+cat a >
+cat a.out
+cat a.t b.t
+cat app.js
+cat app.js r.js
+cat b.js
+cat dim.js
+cat ehtop
+cat file.txt
+cat k
+cat k | c
+cat l
+cat m*
+cat t
+cat tsc*
+cat u
+cat up
+cd
+cd  ..
+cd -
+cd .
+cd ..
+cd ../dic
+cd ../music
+cd ../mv
+cd ../shakes
+cd ../youtube
+cd ..\shakes
+cd ./node_modules/fs
+cd ./work/heroku/.git/refs/remotes/origin/
+cd ./work/heroku/.git/refs/remotes/origin/HEAD
+cd .dotfiles
+cd .vim
+cd /
+cd /Users/jimst/source/repos/giraffe/giraffe/bin/Debug/
+cd /all
+cd /c
+cd /data/db
+cd /dev
+cd /etc
+cd /etc/acpi/
+cd /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+cd /home/steff007/p/home/imgs
+cd /home/steff007/p/shakes
+cd /home/steff007/p/tra
+cd /home/steff007/p/tra/scss
+cd /home/steff007/p/util
+cd /home/steff007/p/util/webpack
+cd /home/steffexit
+cd /mnt
+cd /mnt/
+cd /mnt/C/Users/jimst/source/repos/Project1/Projectcd /mnt/C/Users/jimst/source/repos/Project1/
+cd /mnt/c
+cd /mnt/c/Users/jimst/Downloads
+cd /mnt/c/Users/jimst/OneDrive
+cd /mnt/c/Windows/Panther
+cd /mnt/c/Windows/SysWOW64/
+cd /mnt/c/all
+cd /mnt/c/mv
+cd /mnt/c/youtube
+cd /path/to/save
+cd /usr/lib/node_modules
+cd /usr/local/bin
+cd C:/Users/jimst/source/repos/giraffe/giraffe/bin/Debug/
+cd Debug
+cd Down
+cd Down*
+cd M
+cd M*
+cd Projectl
+cd Users/jimst/source/repos/giraffe/giraffe/bin/Debug/
+cd \
+cd \mv
+cd a*
+cd all
+cd and
+cd bin
+cd books
+cd c
+cd d
+cd data
+cd db
+cd dev
+cd dic
+cd dist
+cd fp*
+cd fpjsl
+cd fs
+cd fu
+cd git
+cd grids
+cd her
+cd hero*
+cd hist
+cd home
+cd hub
+cd im*
+cd imgs
+cd in
+cd interfaces.d
+cd jimst
+cd js
+cd ll
+cd m
+cd maps
+cd mern
+cd minst-core
+cd mnist-core
+cd mns*
+cd models
+cd mon*
+cd mong*
+cd mongo
+cd mongodb
+cd mpl
+cd music
+cd mv
+cd my-app
+cd native
+cd net*
+cd news
+cd no*
+cd nod*
+cd p
+cd p/shakes
+cd pix
+cd pl*
+cd play
+cd prom
+cd pub
+cd pup
+cd quotes
+cd sc*
+cd scrap
+cd scss
+cd serv
+cd shakes
+cd shakes/
+cd src
+cd st*
+cd stats
+cd swap
+cd tens
+cd tls
+cd tra
+cd trav
+cd ts
+cd uf
+cd users
+cd uti
+cd uti*
+cd util
+cd vid
+cd web*
+cd webpack
+cd ws
+cd yo*
+cd you
+cd you*
+cd youtbue
+cd youtube
+cd ~
+cd ~/p
+chmod +rwx data
+chmod +x a.sh
+cm
+cmd
+cmd.exe
+cp -R -n mongodb-linux-x86_64-3.6.5/ mongodb
+cp -a /home/steff007/p/tra/git/dist/img /home/steff007/p/tra/dist
+cp .bash_h* histb
+cp .bash_history hisback
+cp /dev/null 'a file with spaces in the name'
+cp /home/steff007/p/tra/git/dist/img /home/steff007/p/tra/dist
+cp b.js /mnt/c/all
+cp backu .bash_history
+cp l.js k.js
+cp u ub
+cp v.json ..
+cp x.json /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+curl "http://api.github.com/users"
+curl 'https://api.github.com/users/narenaryan'
+curl 'https://api.github.com/users/wither7007'
+curl -H "Authorization: Bearer "$(gcloud auth application-default print-access-token) -H "Content-Type: application/json; charset=utf-8" --data "{
+curl -H "User-Agent: Mozilla/5.(Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.(KHTML, like Gecko) Chrome/44.0.2403.Safari/537.36" http://stackoverflow.com/questions/28760694/how-to-use-curl-to-get-a-get-request-exactly-same-as-using-chrome
+curl -H "User-Agent: Mozilla/5.(Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.(KHTML, like Gecko) Chrome/44.0.2403.Safari/537.36" https://old.reddit.com/top/
+curl -Lks http://bit.do/cfg-ini
+curl -Lks http://bit.do/cfg-ini | vim -
+curl -O https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.6.5.tgz
+curl -a https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html | html2text | sed '/^\s*$/d'
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -s http://www.gutenberg.org/files/1524/1524-0.txt > h
+curl -s http://www.gutenberg.org/files/1524/1524-0.txt | wc
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/ [location-val/,$!d' | vim -
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/Minneapolis/,$!d' | vim -
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/Saturday/,$!d'
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/Saturday/,$!d' | vim -
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/[location-val/,$!d' | vim -
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | sed '/location-val/,$!d' | vim -
+curl -s http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | vim -
+curl -s https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html | html2text | sed '/^\s*$/d'
+curl -s https://www.nytimes.com/2018/06/22/technology/china-micron-chips-theft.html | html2text | sed '/^\s*$/d' | vim -
+curl http://api.github.com/users
+curl http://example.com > u
+curl http://umn.du > u
+curl http://www.gutenberg.org/files/1524/1524-0.txt
+curl http://www.gutenberg.org/files/1524/1524-0.txt | wc
+curl http://www.startribune.com/weather/
+curl http://www.startribune.com/weather/ | html2text
+curl http://www.startribune.com/weather/ | html2text | sed '/^\s*$/d' | vim -
+curl http://www.startribune.com/weather/ | html2text | vim -
+curl http://www.twincities.com
+curl http://www.umn.edu
+curl https://maps.googleapis.com/maps/api/geocode/json?&address=123%20N%20Washington%20Ave%2C%20Minneapolis%2C%20MN%2055401%2C%20USA
+curl https://nl.wikipedia.org/wiki/Lijst_van_Nederlandse_gemeenten |
+curl https://old.reddit.com/top/
+curl https://www.mnlottery.com/games/lotto_games/lotto_results/
+curl https://www.twincities.com/2018/08/13/21-year-old-killed-in-st-paul-shooting-remembered-as-devoted-dad/
+cw
+date
+del
+df
+df -h
+diff --git a/scrap/scrape.js b/scrap/scrape.js
+dir
+dir -a
+dirs
+dirs -l -p
+dirs -l -p -d
+dirs -v
+dos2unix
+dpkg -l
+dpkg -l > l
+dpkg -l | vim -
+du
+du --d=du -d=du -h
+du -ah | sort -h
+du -ah | sort -h #files by size
+du -ah | sort -h > k
+du -h --max-depth=du --max-depth=du --total
+du | wc
+dw
+echo $PATH
+echo $PATH | vim -
+echo $b
+echo $b |  sed 's/\\/\//g'
+echo $b | tr '\\' '/'
+echo $b | tr '\\' '/' > n
+echo $k
+echo $p + 'k'
+echo $p + k
+echo $p k
+echo $p | sed  -e 's/C:/\/mnt\/c/g' | tr '\\' '/'
+echo $p\k
+echo $p\k | sed  -e 's/C//mnt\/c/g'
+echo $p\k | sed  -e 's/C/\/mnt\/c/g'
+echo $p\k | sed  -e 's/C/c/g'
+echo $p\k | sed  -e 's/C:/\/mnt\/c/g'
+echo $p\k | sed  -e 's/C:/\/mnt\/c/g' | tr '\\' '/'
+echo $p\k | sed  -e 's/o/asd/g'
+echo $p\k | sed -i -e 's/o/asd/g'
+echo *
+echo 1.| awk '{print $0}'
+echo 1.| awk '{printf "\t%d\n", $0}'
+echo 1.| awk '{printf "t%d", $0}'
+echo alias c='clip.exe'
+echo alias c='clip.exe' | c
+echo day | sed s/day/night/
+echo the date is `date`
+echo the date is `l`
+echo wc u | awk '{printf ("Word Count: %'"'"'d\n", $1)}'
+echo wc u | awk '{printf ("Word Count: %'"'"'d\n", $1)}' #wc
+echo {1..10}
+echo {1..10} | c
+echo| awk '{print $0}'
+egrep 'e[tw]' l.js
+egrep 'e[twj]' *.js
+egrep 'e[twj]' l.js
+egrep 'e\(' *.js
+egrep 'et' l.js
+egrep 'fs\.' *.js
+egrep -r 'e'
+egrep -r 'e' *.js
+egrep -r 'fs\.'
+egrep -r 'fs\.' *.js
+egrep -r --exclude-dir=node_modules 'fs\.'
+egrep -r --exclude-dir=node_modules 'shell'
+egrep a l.js
+egrep e l.js
+egrepl.js
+env
+env | grep PAT
+eslint --init
+eslint app.js
+ex
+ex -sc '1d4|x' a
+exit
+exort u='https://old.reddit.com/top/'
+export EDITOR='program'
+export EDITOR='vim'
+export PATH=/home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+export PATH=/home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin:$PATH
+export u="http://localhost:3000/"
+export u='https://example.com'
+export u='https://old.reddit.com/top/'
+factorial
+factorial(3)
+faker
+fg
+find
+find -maxdepth a -name '*.jpg'
+find -maxdepth'*.jpeg'
+find -maxdepth-name '*(*'
+find -maxdepth-name '*(*' -delete
+find -maxdepth-name '*.exe*' -exec rm {} \;
+find -maxdepth-name '*.jpeg'
+find -maxdepth-name '*.jpg'
+find -maxdepth-name '*.jpg' | grep
+find -maxdepth-name '*.jpg' | grep '('
+find -maxdepth-name '*.jpg' | grep '(' -exce rm {}
+find -maxdepth-name '*.jpg' | grep '(' -exce rm {} \;
+find -maxdepth-name '*.jpg' | grep '(' -exce rm {};
+find -maxdepth-name '*.jpg' | grep '(' -exec rm {} \;
+find -maxdepth-name '*.jpg' | grep '(' | -exec rm {} \;
+find -maxdepth-name '*.jpg' | grep (
+find -maxdepth-name '*.jpg*' -exec rm {} \;
+find -maxdepth-name '*.json*'
+find -maxdepth-name '*.mid*' -exec rm {} \;
+find -maxdepth-name '*.mp3*'
+find -maxdepth-name '*.mp3*' -exec rm {} \;
+find -maxdepth-name '*.mp3*' | -exec rm {} \;
+find -maxdepth-name '*.mp3*' | vim -
+find -maxdepth-name '*.mp3*' | wc
+find -maxdepth-name '*.zip*' -exec rm {} \;
+find -maxdepth-name 'A*'
+find -maxdepth-name 'a'
+find -name "*.js"
+find -name "*.mid"
+find -name "*.mp3"
+find -name "*.mp3" > mp3x
+find -name "f*"
+find -name "fs.*"
+find -name '*.json*'
+find -name '*.json*' -exec cp {} \t\;
+find -name '*.t'
+find -name '*.t' -exec cat {}
+find -name '*.t' -exec cat {} \
+find -name '*.t' -exec cat {} \;
+find -name '*.tor*'
+find -name '*.tor*' -exec rm {} ;
+find -name '*.tor*' -exec rm {} \ ;
+find -name '*.tor*' -exec rm {} \;
+find -name 'fs.*'
+find -name 'main.js'
+find -name *.mp> /mnt/c/all/mp3s
+find -name fs.*
+find -type f -mtime +find -type f mtime +find type -f mtime +find -type f -mtime +find -type f -mtime +find ~ -type f -name ".*"
+find .
+find . -depth -name '* *' | while IFS= read -r f ; do mv -i "$f" "$(dirname "$f")/$(basename "$f"|tr ' ' _)" ; done
+find ~ -maxdepth-type f -name ".*"
+find ~ -maxdepth-type f -name ".bash*"
+find ~ -maxdepth-type f -name ".rc*"
+find ~ -type -maxdepthf -name ".*"
+find ~ -type f -name ".*"
+find ~ -type f -name ".mp3" > mptmux ls
+for file in /etc/*; do
+for i in {1..100}; do date; done
+for i in {1..100}; do echo $i; done
+for i in {1..100}; echo $i; done
+for i in {1..100};do echo $1;done;
+for i in {1..100};do echo $i;done;
+for i in {1..100};echo $i;done
+for i in {1..25}; do cat u>>ub; done
+for i in {1..5}; do    echo "Welcome $i times"; done
+for i in {1..5}; do cat u>>ub; done
+for i in {1..5}; do echo $i; done
+for i in {1..5}; echo i
+for i in {ls};do echo $i;done;
+g
+g++
+g++ Source.cpp
+gcc -o p p.c
+git add .
+git add README.md
+git add.
+git clone https://github.com/bradtraversy/modern_portfolio.git .
+git clone https://github.com/bradtraversy/pixabay_image_finder.git .
+git clone https://github.com/jonray007/heroku.git
+git clone https://github.com/keithweaver/MERN-boilerplate.git mern
+git clone https://github.com/mpj/fpjs8.git
+git clone https://github.com/tensorflow/tfjs-examples .
+git commit -m "Initial WorkFlow"
+git commit -m "all"
+git commit -m "first commit"
+git commit -m "modifications"
+git commit -m "second"
+git commit -m 'changed cats'
+git commit -m 'images'
+git commit -m 'part 3'
+git config --global user.name
+git config --list
+git diff
+git diff > d
+git diff @{upstream}
+git diff @{upstream} > d
+git diff origin/master
+git diff origin/master - -scrape.js
+git diff origin/master -- scrape.js
+git diff origin/master --scrape.js
+git fetch origin ; git diff --name-only master origin/master
+git fetch origin master
+git init
+git log
+git logs
+git push
+git push --set-upstream origin master
+git push -f --set-upstream origin master
+git push -u origin master
+git remote
+git remote -a
+git remote -v
+git remote add origin https://github.com/wither7007/bin.git
+git status
+git status | vim -
+glances
+grep -C-n youtube l
+grep -i -a -B-A'xterm' /dev/sdagrep -n "THE " a
+grep -n "THE T" a
+grep -n "THE TRA " a
+grep -n youtube l
+grep -r shebang *
+grep a *
+grep a files
+grep a reg*
+grep e l.js
+grep reg *
+grep shebang *
+grep whic *
+grep youtube l
+grids index.html
+h
+h -tail
+h > l
+h > vim -
+h tail
+h | clip.exe
+h | head
+h | tail
+h | vim -
+head * | vim -
+head -ns
+head -ns > t
+head -nv.json > vs.json
+head ind*
+head ub | awk '{print NR, $0}'
+headv.json > vs.json
+hh -hh -hh -a
+hier
+history
+history -a
+history > h
+history | cut -c 8- | sort | uniq
+history | cut -c 8- | sort | uniq > .bash_history
+history | cut -c 8- | sort | uniq | wc
+htop
+htop'
+https://www.youtube.com/watch?v=H_a46WJ1viA: No such file or directory
+hub
+hub create -d hubtest
+ifconfig
+index.html
+ipython
+ipythonjobs
+j
+java *.class
+java -version
+java HelloWorld.class
+java Simple
+java Simple.class
+java Simple.java
+javac -version
+javac H*
+javac HelloWorld.java
+javac S*
+javac Simple.java
+javac s.java
+jj
+k=`ls`
+kksf;lk;j
+l
+l *.exe
+l *.json
+l *.json | vim -
+l *.mid | n
+l *.mid | nl
+l *.mid | vim -
+l *.mpl
+l *.mpls *.mpfor i in5; do    echo "Welcome $i times"; done
+l *.mpls *.mpl
+l *.mpmv *.mplin.mpl *.mprclone copy *.mpstef;
+l *.mps rcop
+l *.mp| nl
+l *.torrent
+l *mprclone copy *.mpstef:
+l -S
+l -a
+l -a *.
+l -a *.v
+l -a *bash
+l -a .*
+l -a .b
+l -a .b*
+l -a .bl -a .b*
+l -a .vl -a .v*
+l -a s*
+l -a | g bas
+l -a | g bash
+l -a | g his
+l -a | grep b
+l -a | ln
+l -a | wc
+l -d
+l -d .?*
+l -ld .?*
+l -ld .?* #dot files
+l -s
+l .\ts dot
+l .pro*
+l /
+l >
+l > /dev/null 2>&l *.js
+l > a
+l > del
+l > l
+l > v
+l >l
+l L*
+l a
+l con*
+l da*
+l f*
+l fp*
+l mpl *mpl n*
+l rcopy
+l s*
+l tcd tl
+l tfind -name -maxdepth'*.json*'
+l v
+l | awk '/[A-Z]/{print}'
+l | awk '/[a-z]/{print}'
+l | awk '/^d/{print}'
+l | egrep "\("
+l | gl | gl | g| xargs rm
+l | grep "\("
+l | grep "a"
+l | grep "a[nr]"
+l | grep "a[nx]"
+l | grep "a[vx]"
+l | grep (
+l | grep /a/
+l | grep a
+l | grep b
+l | ln
+l | nl
+l |nl
+l\
+last
+ln t
+ln | l
+logout
+ls
+ls  .*
+ls *.json
+ls *.json | vim -
+ls *.mid | vim -
+ls *.mpls .nano
+ls *.tgz
+ls *.torrent
+ls -Q
+ls -R
+ls -R|grep [A-z]
+ls -R|grep [A-z] > w
+ls -a
+ls -a .b*
+ls -a .b* | e 'ses'
+ls -a .b* | g 'ses'
+ls -a .b* | g 'ses' | c
+ls -a | g his
+ls -d .*
+ls -d .[^.]*
+ls -d .[^.]* | vim -
+ls -lSr
+ls -lSrh
+ls -ld .*
+ls -ls -a
+ls -p
+ls -s
+ls .
+ls .ipython
+ls /
+ls /?
+ls /?KY
+ls /lib/cpp
+ls /var/log
+ls > l
+ls a*.jpg
+ls exit
+ls g /age/
+ls help
+ls | awk '/^d/{print}'
+ls | c
+ls | clip.exe
+ls | egrep "*.mid"
+ls | egrep "*.mid" | xargs rm
+ls | egrep "\("
+ls | egrep "\(" | xargs rm
+ls | g /age\../
+ls | g age
+ls | g age/.
+ls | g age\.
+ls | g age\..
+ls | grep /*b/
+ls | grep /.*/
+ls | grep a
+ls | g| xargs rm
+ls | sed -e 's/few/asd/g'
+ls | sed -i -e 's/few/asd/g
+ls | sed -i -e 's/few/asd/g'
+ls | vim -
+lsb_release
+lsb_release -a
+m
+mailx
+man chmod
+man chmod +x a.sh
+man du
+man find
+man head
+man ls
+man mkdir
+man mv
+man ping
+man rclone
+man rcp
+man sed print
+man source
+man tmux
+man tmux | g attach
+man tmux | g attach | less
+man tmx
+mc
+md and
+md books
+md css
+md fu
+md git
+md grids
+md home
+md img
+md js
+md maps
+md mongo
+md mpl
+md mpmd serv
+md music
+md native
+md news
+md prom
+md stats
+md t
+md tens
+md tfind -name '*.t' -exec mv {} .\t\;
+md ts
+md ws
+md you
+md youtube
+mk serv
+mkdir -p /data/db
+mkdir -p mongodb
+mkdir .dotfiles
+mkdir /data/db
+mkdir /mnt/c/mv
+mkdir /mnt/mv
+mkdir dic
+mkdir dist
+mkdir her
+mkdir mongo
+mkdir pix
+mkdir quotes
+mkdir vid
+mn
+mong
+mongo
+mongo $
+mongo $ l
+mongo mydb --eval "printjson(db.getCollectionNames())"
+mongo mydb –eval 'printjson(db.getCollectionNames())'
+mongo test --eval "printjson(db.getCollectionNames())"
+mongo test_db –eval 'printjson(db.getCollectionNames())'
+mongo test_db –eval “printjson(db.getCollectionNames())”
+mongod
+mongod --help
+mongod --help | vim -
+mongod --httpinterface
+mongod --rest --httpinterface
+mongod --version
+mongodb
+mongodb --version
+mongoimport --db my --collection x --jsonArray --file x.json
+mongoimport --db mylearning --collection colors --jsonArray --file MOCK_DATA.json
+mongoimport --db test --collection stuff --type csv mo.csv --headerline
+mono giraffe
+mono giraffe.exe
+mtr
+mtr 8.8.8.mv b.js /mnt/c/all
+mv *.json /mnt/c/projects/fu/m.json
+mv *.mp/mnt/c/mv/yes.mpmv N*.mp/mnt/c/mv Four.mpmv N*.mp/mnt/c/mv/Four.mpmv Sim* /mnt/c/mv Br.mpmv Sim* /mnt/c/mv/Br.mpmv W* ubun.mpn abc.js
+mv *mp/mnt/c/mv
+mv -v fpj..
+mv -v fpjs..
+mv -v fpjs./prom
+mv C* happy.mpmv *.json /mnt/c/p/fu/m.json
+mv Goo* ../music
+mv Lin* lin.mpmv lin* mpmv main.js /js
+mv Linux* Linux.mps rclone
+mv MO* /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+mv MO* mo.csv
+mv MOC* /home/steff007/mongodb/mongodb-linux-x86_64-3.6.5/bin
+mv Ob* /mnt/c/mv/Ob.mpcd p
+mv Y* /mnt/c/mv/yes.mpnpm list -g --deptheslint --init
+mv a a.sh
+mv a*.jpg back.jpg
+mv a*.jpg back.jpg /home/steff007/p/home/imgs
+mv a.sh /usr/local/bin
+mv bg* ./img
+mv desktop* .\tcd tl
+mv desktop* \tcat > dmv d\tl th
+mv img imgs
+mv main.js .js
+mv pex* /home/steff007/p/home
+mv pex* bg.jpeg
+n ./src/abc
+n abc
+n abc.js
+n b
+n b | vim -
+n b.js
+n cf
+n data*
+n fun.js
+n hist.js
+n index.js
+n k
+n k.js
+n l
+n mon
+n r
+n r.js
+n rl
+n scrape.js
+n site.js
+n types.js
+nativefier "http://medium.com"
+nb abc
+nb fun
+nb fun.js
+nb k
+nb r
+nb scrape.js
+ndb r.js
+nl a
+nl s
+nl t
+nl u
+nl v.json
+nl v.json | sed -n '/\s+vice/p'
+nl v.json | sed -n '/\svice/p'
+nl v.json | sed -n '/def/p'
+nl v.json | sed -n '/def/p' | wc
+nl v.json | sed -n '/vice/p'
+nl v.json | sed -n p
+nl v.json | sed -n p '/vice/'
+nl v.json | sed -n p /vice/
+nl v.json | sed p
+node --experimental-modules e2.js
+node --experimental-modules ebabel
+node --experimental-modules evim e2.js
+node --inspect-break str.js
+node --inspect-brk abc.js
+node --inspect-brk break
+node --inspect-brk str.js
+node -e 'console.log("jim")'
+node -e 'console.log('jim')
+node -e 'setTimeout(())=>{},10000);' & ps -T h $!
+node -e 'setTimeout(())={},10000);' & ps -T h $!
+node -e 'setTimeout(())={},10000};' & ps -T h $!
+node -e 'setTimeout(()=>{},10000);' & ps -T h $!
+node -e site.js
+node abc.js
+node b.js
+node commands --version
+node commands.js
+node commands.js --version
+node commands.js | less
+node count.js
+node dim.js
+node index.js
+node inspect-brk break
+node j.js
+node j.js &  > j
+node j.js &> f &
+node j.js &> j
+node j.js > 2>&node j.js &> f
+node j.js > j &
+node scrap.js
+node scrape.js
+node ser.js
+node spear.js
+node str.js
+node t.js
+node tsnpm i axios
+nodee inspect-brk break
+nodemon
+nodemon app.js
+nodemon ser.js
+notepad.exe
+npm -i shelljs -g
+npm -v
+npm i -g parcel
+npm i axios
+npm i chai
+npm i express
+npm i express mysql
+npm i fs
+npm i mongodb
+npm i readline
+npm i shelljs
+npm init -y
+npm install
+npm install -g babel-cli --save-dev
+npm install -g ndb
+npm install -g typescript
+npm install @types/node
+npm install @types/node --save-dev
+npm install babel-cli --save-dev
+npm install babel-preset-env babel-preset-stage---save-dev
+npm install firebase-admin
+npm install mongodb
+npm install mongoose
+npm install mongoose commander inquirer
+npm install nativefier -g
+npm install website-scraper
+npm ls
+npm ls --depth=npm ls --depth=> l &
+npm ls -g --depth=npm outdated -g --depth=tsc -v
+npm run develop
+npm run sass
+npm run start:dev
+npm run watch
+npm start
+npm update -g
+nproc
+npx babel-node --presets env e2.js
+npx create-react-app my-app --scripts-version=react-scripts-ts
+nslookup https://www.washingtonpost.com/
+nslookup www.google.com
+p='C:\Windows\SysWOW64\'
+parcel index.html
+parcel watch index.html
+ping
+ping 192.168.1.ping 192.168.1.ping 198.105.254.ping https://www.washingtonpost.com/
+ping www.google.com
+pip install --upgrade pip
+popd
+pow
+powershell.exe
+printenv
+printf "jim"
+printf "jim\n"
+ps
+ps -T h
+ps -aux
+pushd
+pushd .
+pwd
+pwd c
+pwd | awk '{print """$0"""}'
+pwd | awk '{print "$0"}'
+pwd | awk '{print \"$0\"}'
+pwd | c
+pwd | clip
+pwd | clip.exe
+pwd | sed 's/.*/"&"/'
+python
+pythona.py
+q
+rclone
+rclone config
+rclone copy *.mpstef:
+rclone copy Linux.mpstef
+rclone copy Linux.mpstef:
+rclone copy g stef:
+rclone copy twig0473.mpstef:
+rclone copy twig0473.mpstef;
+rclone copy twit0681.mpstef:
+rclone ls
+rclone ls remote
+rclone ls stef:
+rclone lsd remote
+rclone lsd remote:
+rclone lsd stef:
+rclone twit0681.mpstef:
+rcp
+rm 'Jim-Steinhagen-Q-and-A (1).pdf'
+rm *
+rm *.css
+rm *.json
+rm *.mprm .nano
+rm *.tgz
+rm *.txt
+rm -i i
+rm -rf .git
+rm -rf .v8*
+rm -rf.v8*
+rm .viminfo*
+rm Jim-Steinhagen-Q-and-A (1).pdf
+rm Lin*
+rm M*
+rm Srm S*
+rm The*
+rm a
+rm con*
+rm d
+rm delrm f
+rm file.txt
+rm s*
+rm ub
+s
+s #
+s [a-z]
+s alias
+s bash
+s cat
+s clip
+s cmd
+s color
+s curl
+s dot
+s du
+s exec
+s export
+s find
+s git
+s grep
+s h
+s his
+s hist
+s insp
+s inspect
+s j.js
+s j.sj
+s mnt
+s mon
+s mong
+s mongo
+s mongodb
+s mpl
+s mpl *mpfind . -type f -regex '681'
+s npm
+s npm | grep ls
+s npm | grep n
+s pkg
+s proc
+s pwd
+s rcl
+s rclone
+s rcop
+s rcopy
+s rsync
+s s
+s steff
+s tmux
+s tmux attach
+s tmux | grep attach
+s tr
+s twit
+s uniq
+s webp*
+s webpack
+s you
+s yout
+s youtu
+s youtube
+s youtube | tail
+sc
+sc --version
+sc -v
+sc -version
+sc g
+sc k
+screen
+script tes
+sed  '100,110p' a
+sed  's/[A-Z]/xxxx/g' s
+sed  's/a/xxxx/g' s
+sed  's/xxxxxx/a/g' s
+sed  's:a:xxxx:g' s
+sed  /s/ t
+sed  /s/// t
+sed  s/// t
+sed "s/'t/not/" s
+sed "s/'t/not\ \ /" s
+sed "s/'t/not\$ \ /" s
+sed "s/\'t/not" s
+sed "s/\'t/not/" s
+sed '/./,/^$/!d'  a
+sed '/Saturday/,$!d' a
+sed '/^$/d;G' s
+sed '/down/ a\
+sed '/i/xxxxxxxxxxxx/' s
+sed '/s/[a-z]/*/' s
+sed '/s/[a-z]//' s
+sed '/sweet/,$!d' a
+sed '3s/a/xxx/' t
+sed '3s/a/xxx/g' t
+sed 's/[A-Z]/(&)/g' s
+sed 's/[A-Z]/[a-z]/' s
+sed 's/[A-Z]/xxxxxxxxxxxx/' s
+sed 's/[a-z]/*/' s
+sed 's/[a-z]/*/g' s
+sed 's/[a-z]//g' s
+sed 's/^[ \t]*//' a
+sed 's/^c/ooooooooo/' s
+sed 's/i.*/xxxxxxxxxxxx/' s
+sed 's/i./xxxxxxxxxxxx/' s
+sed 's/i/xxxxxxxxxxxx/' s
+sed 's/t/ttt/g'
+sed 's/t/ttt/g' a
+sed 's/t/ttt/g' s
+sed 's/the/"&"/' s
+sed 's/the/($)/' s
+sed 's/the/(&)/' s
+sed 's/the/(&)/g' s
+sed 's/up/UP' v.json
+sed 's/up/UP/' v.json
+sed 's/up/UP/w up' v.json
+sed 's1/a/xxx/' t
+sed -i '1d' j
+sed -i 's/a/xxxxxx/' s
+sed -i 's/xxxxxx/a/g' s
+sed -n $p t
+sed -n '$p' t
+sed -n '/THE /=' a | less
+sed -n '/THE /p' a | less
+sed -n '/THE /p=' a | less
+sed -n '/THE/' a
+sed -n '/THE/p' a
+sed -n '/THE/p' a | less
+sed -n '/\s+vice\s/p' v.json
+sed -n '/\svice\s/p' v.json
+sed -n '/^.\{15\}/!p' a
+sed -n '/^.\{65\}/!p' a
+sed -n '/^.\{65\}/p' a
+sed -n '/def/p'
+sed -n '/def/p' v.json
+sed -n '/def/p' v.json | vim -
+sed -n '/vice/p' v.json
+sed -n '/vice\s/p' v.json
+sed -n '1,5p' t
+sed -n '1,5p' u
+sed -n '1000,1005p' u
+sed -n '3,4p' r.js
+sed -n '3s/a/xxx/g' t
+sed -n '3s/a/xxx/gp' t
+sed -n 'THE' a
+sed -n -pr.js
+sed -n /s/ t
+sed -n 1p r.js
+sed -n 3p r.js
+sed -n 3p t
+sed -n a
+sed -n p r.js app.js
+sed -n p r.js v.json
+sed -n p t
+sed -n s t
+sed -ne '100,110' a
+sed -ne '100,110p' a
+sed /s t
+sed = l | sed 'N;s/\n/\t/'
+sed G l
+sed i 's/a/xxxxxx/' s
+sed l
+sed p r.js
+sed p t
+sed r.js
+sed s
+sed s t
+sed s/a/xxx t
+sed s/a/xxx/ t
+sed s1/a/xxx/ t
+sed t
+set
+set | vim -
+source .bash_aliases
+source a
+source d
+source f.sh
+source n
+source s
+strings -n< /dev/urandom | tr -d '[:space:]' | head -csudo adduser del
+sudo -H pip install --upgrade youtube-dl
+sudo adduser susie test
+sudo adduser user susie test
+sudo apt install ipythonsudo apt install python-pip
+sudo apt install mono-mcs
+sudo apt install sc
+sudo apt list --installed
+sudo apt list --installed | egrep py
+sudo apt list --installed | egrep py | less
+sudo apt list --installed | g py
+sudo apt-get update
+sudo apt-get update && sudo apt-get install -y default-jdk
+sudo chmod +rwx data
+sudo chmod +rwx db
+sudo chmoddata -R
+sudo groupadd test
+sudo groupdel test
+sudo mkdir -p /data/db
+sudo mkdir /data/db
+sudo mv a.sh /usr/local/bin
+sudo npm -i -g shelljs
+sudo npm i -g parcel
+sudo npm install -g babel-cli --save-dev
+sudo npm install -g babel-preset-env babel-preset-stage---save-dev
+sudo npm install -g ndb
+sudo npm install -g shelljs
+sudo npm install -g typescript
+sudo npm install nativefier -g
+sudo npm update -g
+sudo passwd susie
+sudo pip install --upgrade pip
+sudo pip install --upgrade youtube-dl
+sudo pip install -U youtube-dl
+sudo pip install youtube-dl
+sudo userdel del
+sudo vim /etc/group
+sudo vim /etc/network/interface
+sudo youtube-dl -U
+tail h
+tar -zxvf mon*
+tmux
+tmux -detach
+tmux -ls
+tmux a
+tmux a -t windows
+tmux a -texit
+tmux a -tfind ~ -type f -name ".mp3" > mp3s
+tmux a -ts
+tmux a -ts mongo
+tmux atmux atmux ls
+tmux atmux attach
+tmux atmux attachl
+tmux attach
+tmux attachtmux aexit
+tmux attachtmux attachtmux ls
+tmux detach
+tmux kill-server
+tmux ls
+tmux new-window -c "$PWD"
+top
+total 16K
+touch ./css/style.css
+touch _config.scss
+touch _menu.scss
+touch a
+touch app.js
+touch fun.js
+touch index.htm style.css
+touch index.html
+touch index.js
+touch main.js
+touch style.css
+touch sw.js
+touch tm.ts
+tr '\\' '/' | $b
+tree
+tree | vim -
+tree | vim =
+treee
+tsc -v
+tsc App.tsx
+tsc tm.ts
+tsc tm.ts -w
+tsc types.ts
+tsc types.ts -w
+txc tm.ts
+uname
+uname -a
+unname
+v.json
+v.json'
+ver
+vi ~/.inputrc
+vi ~/.vimrc
+vim
+vim --version
+vim -help
+vim -v
+vim .b*
+vim .babelrc
+vim .bas*
+vim .bash_a*
+vim .bash_ali*
+vim .bash_aliases
+vim .bash_h*
+vim .bash_history
+vim .bashrc
+vim .config
+vim .dbshell
+vim .gitignore
+vim .tmux.conf
+vim .v8*
+vim .viminf*
+vim .viminfvim ~/vimrc
+vim .vimrc
+vim /etc/passwd
+vim Coll*
+vim HEAD
+vim HelloWorld.java
+vim MO*
+vim RE*
+vim REA*
+vim Simple.java
+vim a
+vim a.py
+vim array.txt
+vim aw
+vim b
+vim b.js
+vim backu
+vim bash_a*
+vim cf.js
+vim clean
+vim clean.html
+vim con*
+vim console-1533392801163.log
+vim d
+vim data
+vim e.js
+vim e2.js
+vim f
+vim f.sh
+vim g
+vim h
+vim hist.js
+vim histb
+vim interfaces
+vim interfaces.d
+vim j
+vim j.js
+vim k
+vim l
+vim mp3s
+vim mp3x
+vim n
+vim o
+vim p
+vim p.c
+vim package.json
+vim rl.js
+vim s
+vim s.java
+vim scrape.j
+vim scrape.js
+vim site.js
+vim t
+vim t.js
+vim tsconfig.json
+vim u
+vim ub
+vim ub v
+vim v.json
+vim w
+vim x.json
+vim ~/.bash_ali*
+vim ~/.bash_aliases
+vim ~/.bashrc
+vim ~/.tmux.conf
+vim ~/.vimrc
+vim ~\.bashrc
+vn
+wc
+wc a | awk '{printf "%d\n", $1}'
+wc b
+wc b | LC_ALL=en_US.UTF-awk '{ printf("%'"'"'d\n", $0) }'
+wc b.js
+wc s
+wc u
+wc u | awk '{printf "%'d\n", $1}'
+wc u | awk '{printf "%\'d\n", $1}'
+wc u | awk '{printf "%\d\n", $1}'
+wc u | awk '{printf "%d"'"\n", $1}'
+wc u | awk '{printf "%d\n", $1}'
+wc u | awk '{printf ("%'"'"'d\n", $1)}'
+wc u | awk '{printf ("Word Count: %'"'"'d\n", $1)}'
+wc u | awk '{printf ("Word Count: %'"'"'d\n", $1)}' #word count with commas
+wc u | awk -f j
+wc uab
+wc ub
+wc ub | awk '{print $2}'
+wc | awk '{printf "%'d\n" $1}'
+wc | awk '{printf "%\'d\n" $1}'
+wc | awk '{printf "%d\n" $1}'
+wc | awk '{printf "%d\n", $1}'
+webpack --config web.js
+webpack --config web.js > output.log 2>&&
+webpack --web.js
+which lxrun
+which mongodb
+which mono
+which pythonvim a.py
+which tsc
+x
+x > /dev/null 2>&xterm
+xterm
+xterm ls
+y"https://www.youtube.com/watch?v=pMc8jcvTZdQ"
+y'https://www.youtube.com/watch?v=0qJjawcMJaQ'
+y'https://www.youtube.com/watch?v=1DMolJ2FrNY&t=98s'
+y'https://www.youtube.com/watch?v=2d7s3spWAzo&t=871s'
+y'https://www.youtube.com/watch?v=2kotK9FNEYU'
+y'https://www.youtube.com/watch?v=8htJVyavMvo'
+y'https://www.youtube.com/watch?v=9sWEecNUW-o'
+y'https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&t=30s'
+y'https://www.youtube.com/watch?v=Da4WHMymGkI'
+y'https://www.youtube.com/watch?v=FVqzKAUsM68'
+y'https://www.youtube.com/watch?v=GhQdlIFylQ8'
+y'https://www.youtube.com/watch?v=HKgURBN8sRY'
+y'https://www.youtube.com/watch?v=HZv8YHYUHTU'
+y'https://www.youtube.com/watch?v=HvDqbzu0i0E'
+y'https://www.youtube.com/watch?v=L9BD6J2fcCs'
+y'https://www.youtube.com/watch?v=PFmuCDHHpwk'
+y'https://www.youtube.com/watch?v=PoRJizFvM7s&t=608s'
+y'https://www.youtube.com/watch?v=Rhv8iOY08TY'
+y'https://www.youtube.com/watch?v=TiY5FuwgocI&t=52s'
+y'https://www.youtube.com/watch?v=baeg47KS-jo&t=3731s'
+y'https://www.youtube.com/watch?v=cKAfdBB0MVE'
+y'https://www.youtube.com/watch?v=cZjJ3IpAIiY'
+y'https://www.youtube.com/watch?v=fiYCwKg_QZA'
+y'https://www.youtube.com/watch?v=hlM7zdf7zwU'
+y'https://www.youtube.com/watch?v=mbzCe1of_Hs'
+y'https://www.youtube.com/watch?v=pMc8jcvTZdQ'
+y'https://www.youtube.com/watch?v=qXS2TuX_QW4'
+y'https://www.youtube.com/watch?v=rAy_3SIqT-E&t=1518s'
+y'https://www.youtube.com/watch?v=sAN-nLp70SY'
+y'https://www.youtube.com/watch?v=t6CBKf8K_Ac&t=81s'
+y'https://www.youtube.com/watch?v=v1BDJELO87o&t=117s'
+yarn
+ym "https://www.youtube.com/watch?v=Fjx_OvreKG4&t=277s"
+ym"https://www.youtube.com/watch?v=gcx-3qi7t7c"
+youtube-dl -F
+youtube-dl -F "https://www.youtube.com/watch?v=_J9NpHKrKMw"
+youtube-dl -F "https://www.youtube.com/watch?v=pMc8jcvTZdQ"
+youtube-dl -F "https://www.youtube.com/watch?v=pMc8jcvTZdQ" | e mpyoutube-dl -F "https://www.youtube.com/watch?v=pMc8jcvTZdQ" | e mpl
+youtube-dl -F https://www.youtube.com/watch?v=zTzoDvGig7M
+youtube-dl -f"https://www.youtube.com/watch?v=46Q4T1aCjAM"
+youtube-dl -f"https://www.youtube.com/watch?v=9_2DiE0FZKQ"
+youtube-dl -f"https://www.youtube.com/watch?v=FYLOvE1NCTA"
+youtube-dl -f"https://www.youtube.com/watch?v=RFh-C6upvh8"
+youtube-dl -f"https://www.youtube.com/watch?v=gcx-3qi7t7c"
+youtube-dl -f"https://www.youtube.com/watch?v=xc7nvwngjxU"
+youtube-dl -f"ttps://www.youtube.com/watch?v=9_2DiE0FZKQ"
+youtube-dl -f'https://www.youtube.com/watch?v=1DMolJ2FrNY&t=102s'
+youtube-dl -fhttps://www.youtube.com/watch?v=FYLOvE1NCTA
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=1lWJXDG2i0A"
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=46Q4T1aCjAM"
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=ED5s1-Fe9FA"
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=H_a46WJ1viA"
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=Id_UYLPSn6U"
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=PTMMS88gi6c"
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=TkL_IevacnU"
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=WSuVCyT63II"
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=cinoGhY5CeI"
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=dMCbycerRVY"
+youtube-dl -x --audio-format mp"https://www.youtube.com/watch?v=w26c7NSdPCw"
+youtube-dl -x --audio-format mp"youtube-dl -x --audio-format mp3"
+youtube-dl -x --audio-format mphttps://www.youtube.com/watch?v=zTzoDvGig7M
+youtube-dl https://www.youtube.com/watch?v=FYLOvE1NCTA
+youtube-dl https://www.youtube.com/watch?v=Gdq-n2SbuZo
+youtube-dl https://www.youtube.com/watch?v=Rg4y-xf46Do&list=PLhHJAtfNDCe7y7bFG1MWCr2I6ygK0kowK&index=youtube-dl https://www.youtube.com/watch?v=TVXcNjeYxMk&index=57&list=PLhHJAtfNDCe7y7bFG1MWCr2I6ygK0kowK
+}
+}" "https://texttospeech.googleapis.com/v1beta1/text:synthesize"
+},
