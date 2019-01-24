@@ -11,8 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
+    "babel-preset-env": "^1.7.0",
     "cheerio": "^1.0.0-rc.2",
-    "jsdom": "^13.0.0",
+    "jsdom": "^13.1.0",
     "pretty": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1"
   }
 }
