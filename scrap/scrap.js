@@ -1,4 +1,3 @@
-// const fs = require('fs')
 const axios = require('axios')
 const {
   groupBy
@@ -7,8 +6,10 @@ const {
   shuffle
 } = require('./groupBy')
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
-// const jsdom = require('jsdom')
-// const { JSDOM } = jsdom
+const jsdom = require('jsdom')
+const {
+  JSDOM
+} = jsdom
 var pretty = require('pretty')
 const murl = 'https://www.nytimes.com'
 console.log(murl)
@@ -23,34 +24,39 @@ let n = (l) => {
   for (let key in n) {
     tags.push(key + ": " + n[key].length)
   }
-  debugger
   console.log(tags)
+  debugger
+  let fileName = murl.replace(/^https:\/\/www\./, '')
+  let wData = murl + '\n' + tags.sort().map(x => x + '\n').join("")
   require("fs").writeFile(
-    murl.replace(/^https:\/\/www\./, ''),
+    fileName,
     murl + '\n' +
     tags.sort().map(x => x + '\n').join(""),
     function (err) {
       console.log(err ? 'Error :' + err : 'ok')
     }
   );
-  require('fs').writeFile(
-    JSON.stringify(tags),
-    function (err) {
-      if (err) {
-        console.error('Crap happens');
-      }
-    }
-  );
+  // require('fs').writeFile(
+  //   JSON.stringify(tags),
+  //   function (err) {
+  //     if (err) {
+  //       console.error('Crap happens');
+  //     }
+  //   }
+  // );
   let o = m.filter(x => x.tagName != 'SCRIPT')
   debugger
 }
-axios.get(murl)
-  .then(response =>
-    require("fs").writeFile('text.html', pretty(response.data), err => {
-      if (err) console.log(err)
-    }))
-  .then({
-    const dox = new JSDOM(response.data);
-    n(dox)
 
+axios.get(murl)
+  .then(function (response) {
+    const dox = response.data;
+    require("fs").writeFile('text.html', pretty(dox), err => {
+      if (err) console.log(err)
+    })
+    const doxDom = new JSDOM(response.data);
+    n(doxDom)
+  })
+  .catch(function (error) {
+    console.log(error)
   })
