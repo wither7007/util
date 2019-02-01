@@ -7,13 +7,13 @@ const {
   shuffle
 } = require('./groupBy')
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
-const jsdom = require('jsdom')
-const {
-  JSDOM
-} = jsdom
+// const jsdom = require('jsdom')
+// const { JSDOM } = jsdom
 var pretty = require('pretty')
 const murl = 'https://www.nytimes.com'
 console.log(murl)
+
+//processing function
 let n = (l) => {
   let m = [...l.window.document.querySelectorAll('*')]
   let rs = shuffle(m)
@@ -34,11 +34,7 @@ let n = (l) => {
     }
   );
   require('fs').writeFile(
-
-    './my.json',
-
     JSON.stringify(tags),
-
     function (err) {
       if (err) {
         console.error('Crap happens');
@@ -49,7 +45,11 @@ let n = (l) => {
   debugger
 }
 axios.get(murl)
-  .then(function (response) {
+  .then(response =>
+    require("fs").writeFile('text.html', pretty(response.data), err => {
+      if (err) console.log(err)
+    }))
+  .then({
     const dox = new JSDOM(response.data);
     n(dox)
 

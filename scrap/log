@@ -1,0 +1,107 @@
+commit 5c2affbe4bc9782469e41d3e045029bab7347c33
+Author: Bill Withers <wither7007@gmail.com>
+Date:   Thu Jan 24 15:29:41 2019 -0600
+
+    good tag file getter
+
+commit b5a3c5a95dc3c48f1a1cdda71c60fd17de0c44ff
+Author: Bill Withers <wither7007@gmail.com>
+Date:   Tue Dec 25 02:14:26 2018 -0600
+
+    christmas cleanup
+
+commit d0e5e3d65d62aa05e5f63f9d4177f5d2ba5ce7cc
+Author: bill.withers <wither7007@gmail.com>
+Date:   Fri Oct 19 00:06:23 2018 -0500
+
+    update
+
+commit ef7bdb84465a5f84f8340473dd195dee064a76be
+Author: bill.withers <wither7007@gmail.com>
+Date:   Mon Aug 6 11:02:04 2018 -0500
+
+    modifications
+
+commit e4d23b5f04bd6c0c8c4f46f54d937c4c8e21a4e1
+Author: bill.withers <wither7007@gmail.com>
+Date:   Tue Jul 24 15:59:57 2018 -0500
+
+    clean up
+
+commit 3c64210691ed614dd42434d883d4c0db018ea697
+Author: James Steffes <wither7007@gmail.com>
+Date:   Sun May 6 11:07:59 2018 -0500
+
+    added webpack
+
+commit c9ba74e8bed93b09e2831791ac1143994c3d849c
+Author: James Steffes <wither7007@gmail.com>
+Date:   Tue Apr 10 11:45:49 2018 -0500
+
+    removed comments from bottom
+
+commit 3c7b9e4cfe52c208f5dfaaf9ffeeac2fbac5925f
+Author: James Steffes <wither7007@gmail.com>
+Date:   Thu Mar 22 19:19:53 2018 -0500
+
+    added scrape
+
+commit b75fc970418dfbbef9379d2e596bda3a9e7685cd
+Author: James Steffes <wither7007@gmail.com>
+Date:   Thu Mar 22 15:50:48 2018 -0500
+
+    more
+
+commit a726108311b7aee51754c17f943fda29392da56e
+Author: James Steffes <wither7007@gmail.com>
+Date:   Thu Mar 22 15:44:49 2018 -0500
+
+    more
+
+commit 78ab1f2957f8c331ffe999e6838811b3fc24167f
+Author: James Steffes <wither7007@gmail.com>
+Date:   Thu Mar 22 15:33:33 2018 -0500
+
+    added wslash
+
+commit 4683ba592d34b04ea8a45380fb139f5bdbf7126c
+Author: wither7007 <wither7007@gmail.com>
+Date:   Thu Mar 22 15:30:04 2018 -0500
+
+    Add files via upload
+
+commit 262c54d723f3e371f7745ebd8fb4f8c703ecc270
+Author: James Steffes <wither7007@gmail.com>
+Date:   Thu Mar 22 15:27:51 2018 -0500
+
+    deleted files
+
+commit 088eb5592cf54a2dfcc1cf5e817b5a67474fe32c
+Author: John <jonray007@yahoo.com>
+Date:   Sun Mar 4 14:58:28 2018 -0600
+
+    clean up
+
+commit 1f0197916e4cb330e4140b80d205cbccd587e08f
+Author: John <jonray007@yahoo.com>
+Date:   Sat Feb 17 09:40:56 2018 -0600
+
+    fixed spaces before
+
+commit 544efb5d5a77f1479b83d165abb02aa6ecd1ae42
+Author: John <jonray007@yahoo.com>
+Date:   Sat Feb 17 00:52:25 2018 -0600
+
+    sort array
+
+commit bd097c289cab7f0aad6fe348005916fd05fdee3d
+Author: John <jonray007@yahoo.com>
+Date:   Sat Feb 17 00:40:51 2018 -0600
+
+    fix spaces
+
+commit a45f049365fc7ed024f258dcdc05f38910ffc73d
+Author: =Bill Withers <wither7007@gmail.com>
+Date:   Sat Feb 17 00:21:27 2018 -0600
+
+    initial commit
