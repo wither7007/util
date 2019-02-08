@@ -1,9 +1,0 @@
-Hash: e55f7a4b7d5f202466ca
-Version: webpack 4.8.3
-Time: 995ms
-Built at: 2018-07-11 08:09:42
-Asset       Size  Chunks             Chunk Names
- b.js  676 bytes       0  [emitted]  main
-Entrypoint main = b.js
-[0] external "fs" 42 bytes {0} [built]
-[1] ./src/abc.js 182 bytes {0} [built]

@@ -1,6 +1,6 @@
-var updateSum = function(){
-    document.getElementById('sum').innerHTML=math.sum(
-        parseInt(document.getElementById('text1').value),
-        parseInt(document.getElementById('text2').value)
-    )
-}
+var fs = require('fs');
+
+fs.writeFile('mynewfile3.txt', 'Hello content!', function (err) {
+    if (err) throw err;
+    console.log('Saved!');
+});

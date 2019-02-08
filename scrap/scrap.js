@@ -1,3 +1,9 @@
+if (process.argv[2]) {
+  murl = process.argv[2]
+} else {
+  murl = 'https://www.nytimes.com'
+}
+
 const axios = require('axios')
 const {
   groupBy
@@ -11,7 +17,6 @@ const {
   JSDOM
 } = jsdom
 var pretty = require('pretty')
-const murl = 'https://www.nytimes.com'
 console.log(murl)
 
 //processing function
