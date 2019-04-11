@@ -1,7 +1,8 @@
 if (process.argv[2]) {
   murl = process.argv[2]
 } else {
-  murl = 'https://www.nytimes.com'
+  // murl = 'https://www.nytimes.com'
+  murl = 'https://www.mnlottery.com/winners/unclaimed-prizes'
 }
 
 const axios = require('axios')
